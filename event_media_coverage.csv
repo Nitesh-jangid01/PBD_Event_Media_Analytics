@@ -1,0 +1,601 @@
+coverage_id,publication_date,event_day,session_covered,journalist_type,media_organization,country_of_media,language,coverage_type,headline_sentiment,estimated_reach,ad_value_equivalency,broadcast_duration_mins,online_shares,linked_accreditation,is_international_media
+ECOV0001,2023-01-10,2023-01-10,Exhibition,Photographer,MediaOrg_18,Netherlands,Telugu,Press Release Pickup,Neutral,244669,614795,0,12480,ACC0101,1
+ECOV0002,2023-01-10,2023-01-10,Plenary Session,TV,MediaOrg_27,South Africa,Gujarati,Press Release Pickup,Neutral,4017702,11526542,22,15945,ACC0154,1
+ECOV0003,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_11,India,Telugu,Social Post,Positive,450214,1201120,0,20639,ACC0050,1
+ECOV0004,2023-01-10,2023-01-10,Award Ceremony,Digital,MediaOrg_36,Germany,Tamil,Social Post,Positive,277387,296644,0,3972,ACC0180,1
+ECOV0005,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_42,Mauritius,Gujarati,Social Post,Positive,1718981,3855470,0,22059,ACC0262,1
+ECOV0006,2023-01-10,2023-01-10,Cultural Program,Radio,MediaOrg_30,Trinidad,Gujarati,Article,Positive,87216,282757,0,11055,ACC0216,1
+ECOV0007,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_6,UK,French,Article,Neutral,3445479,7225814,0,21397,ACC0150,1
+ECOV0008,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_50,New Zealand,French,Press Release Pickup,Positive,5457668,15408497,0,14755,ACC0212,1
+ECOV0009,2023-01-08,2023-01-08,Exhibition,Print,MediaOrg_17,Guyana,Hindi,Article,Neutral,136113,215628,0,3375,ACC0049,1
+ECOV0010,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_34,Netherlands,Hindi,Live Broadcast,Positive,501520,962207,0,5088,ACC0044,1
+ECOV0011,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_29,Trinidad,Gujarati,Article,Positive,245497,698094,0,5590,ACC0015,0
+ECOV0012,2023-01-10,2023-01-10,Press Conference,Digital,MediaOrg_56,Mauritius,Tamil,Press Release Pickup,Neutral,345998,884702,0,22859,ACC0277,1
+ECOV0013,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_57,Fiji,Spanish,Press Release Pickup,Positive,3879763,12567533,0,17491,ACC0159,1
+ECOV0014,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_29,Australia,French,Photo Essay,Positive,570883,1090000,0,9947,ACC0006,0
+ECOV0015,2023-01-10,2023-01-10,Award Ceremony,TV,MediaOrg_1,Guyana,Marathi,Photo Essay,Positive,2934715,6012165,51,14104,ACC0150,1
+ECOV0016,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_57,Mauritius,Spanish,Photo Essay,Positive,579842,1086992,0,23427,ACC0378,1
+ECOV0017,2023-01-09,2023-01-09,Press Conference,Radio,MediaOrg_41,Canada,Tamil,Social Post,Positive,236307,772629,0,17430,ACC0138,1
+ECOV0018,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_41,South Africa,Marathi,Social Post,Positive,196267,677445,0,16121,ACC0097,1
+ECOV0019,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_12,USA,Tamil,Social Post,Negative,466343,670432,30,23825,ACC0005,1
+ECOV0020,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_27,Australia,Marathi,Social Post,Positive,173520,455124,52,1039,ACC0170,1
+ECOV0021,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_35,South Africa,Gujarati,Article,Neutral,284449,1176181,0,8194,ACC0196,1
+ECOV0022,2023-01-08,2023-01-08,Side Event,Print,MediaOrg_29,Canada,English,Article,Positive,754398,1971182,0,3078,ACC0267,1
+ECOV0023,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_60,UAE,Gujarati,Live Broadcast,Positive,413024,1489585,0,18008,ACC0267,1
+ECOV0024,2023-01-09,2023-01-09,Cultural Program,Radio,MediaOrg_57,India,Telugu,Live Broadcast,Positive,674536,1231622,0,14226,ACC0167,0
+ECOV0025,2023-01-08,2023-01-08,Side Event,Digital,MediaOrg_16,India,English,Press Release Pickup,Positive,618099,2313027,0,15573,ACC0353,1
+ECOV0026,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_6,Trinidad,French,Live Broadcast,Positive,98826,119501,0,21121,ACC0079,1
+ECOV0027,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_36,Netherlands,French,Photo Essay,Positive,136939,488346,0,699,ACC0353,1
+ECOV0028,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_32,Guyana,Marathi,Press Release Pickup,Positive,146276,297159,0,22840,ACC0251,1
+ECOV0029,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_30,Australia,Gujarati,Live Broadcast,Positive,4610219,13180528,30,9688,ACC0135,1
+ECOV0030,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_25,Guyana,Gujarati,Live Broadcast,Neutral,5754,18234,0,11930,ACC0398,1
+ECOV0031,2023-01-08,2023-01-08,Award Ceremony,Digital,MediaOrg_53,Singapore,Telugu,Press Release Pickup,Positive,761027,2580859,0,18070,ACC0079,1
+ECOV0032,2023-01-09,2023-01-09,Inaugural Ceremony,Digital,MediaOrg_7,Mauritius,Hindi,Live Broadcast,Positive,434711,1705448,0,4252,ACC0092,1
+ECOV0033,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_3,Fiji,Spanish,Photo Essay,Positive,948043,2692797,46,19342,ACC0132,0
+ECOV0034,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_60,Germany,Telugu,Photo Essay,Neutral,5133107,21812691,55,2620,ACC0240,1
+ECOV0035,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_53,UAE,English,Press Release Pickup,Positive,383458,740209,0,1332,ACC0376,1
+ECOV0036,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_7,Guyana,Telugu,Press Release Pickup,Negative,231387,543449,0,6328,ACC0270,1
+ECOV0037,2023-01-08,2023-01-08,Award Ceremony,International,MediaOrg_48,Mauritius,Spanish,Live Broadcast,Negative,5295606,19498378,0,18892,ACC0184,1
+ECOV0038,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_11,Netherlands,Gujarati,Press Release Pickup,Positive,702557,1689965,0,11059,ACC0337,1
+ECOV0039,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_36,UAE,French,Photo Essay,Negative,3766255,13839651,0,14109,ACC0372,1
+ECOV0040,2023-01-10,2023-01-10,Press Conference,TV,MediaOrg_50,Mauritius,Tamil,Social Post,Positive,4774000,20842239,30,13011,ACC0001,1
+ECOV0041,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_57,Australia,English,Social Post,Positive,629702,2799264,0,7039,ACC0162,0
+ECOV0042,2023-01-10,2023-01-10,Award Ceremony,Digital,MediaOrg_60,Fiji,Gujarati,Live Broadcast,Positive,585557,662895,0,11654,ACC0080,1
+ECOV0043,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_52,Australia,Hindi,Press Release Pickup,Positive,615434,1476607,0,7124,ACC0376,1
+ECOV0044,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_58,Guyana,Hindi,Press Release Pickup,Positive,510972,1659581,0,1224,ACC0375,1
+ECOV0045,2023-01-10,2023-01-10,Side Event,Radio,MediaOrg_22,UAE,Spanish,Photo Essay,Neutral,87289,371489,0,3949,ACC0395,1
+ECOV0046,2023-01-10,2023-01-10,Exhibition,Photographer,MediaOrg_50,Trinidad,Spanish,Live Broadcast,Negative,636559,1315603,0,1349,ACC0164,1
+ECOV0047,2023-01-10,2023-01-10,Plenary Session,TV,MediaOrg_10,India,Spanish,Photo Essay,Positive,2791662,10147525,38,16538,ACC0047,1
+ECOV0048,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_6,South Africa,English,Press Release Pickup,Positive,418477,1003160,0,2787,ACC0205,1
+ECOV0049,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_36,Canada,Marathi,Photo Essay,Neutral,141708,465208,0,6425,ACC0288,1
+ECOV0050,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_50,Singapore,French,Press Release Pickup,Positive,2115659,2779090,0,22011,ACC0212,1
+ECOV0051,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_42,India,Tamil,Article,Positive,204742,912490,0,20192,ACC0227,1
+ECOV0052,2023-01-08,2023-01-08,Plenary Session,Radio,MediaOrg_13,Trinidad,French,Article,Negative,52057,190115,0,2811,ACC0058,1
+ECOV0053,2023-01-08,2023-01-08,Side Event,TV,MediaOrg_54,New Zealand,Tamil,Live Broadcast,Negative,5259346,11578186,53,3646,ACC0157,1
+ECOV0054,2023-01-09,2023-01-09,Award Ceremony,Print,MediaOrg_14,Canada,Tamil,Press Release Pickup,Positive,352997,949770,0,23918,ACC0073,1
+ECOV0055,2023-01-10,2023-01-10,Exhibition,Photographer,MediaOrg_34,India,Tamil,Article,Positive,24281,29389,0,6576,ACC0357,1
+ECOV0056,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_5,Singapore,Tamil,Social Post,Positive,492546,1982491,0,625,ACC0150,1
+ECOV0057,2023-01-10,2023-01-10,Award Ceremony,Radio,MediaOrg_46,USA,French,Photo Essay,Negative,247397,997926,0,17418,ACC0046,1
+ECOV0058,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_2,India,Telugu,Press Release Pickup,Positive,3891867,8045447,0,16054,ACC0202,1
+ECOV0059,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_41,Australia,Telugu,Press Release Pickup,Positive,368625,724559,0,2031,ACC0321,1
+ECOV0060,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_10,UAE,Spanish,Article,Negative,586896,767238,0,12524,ACC0267,1
+ECOV0061,2023-01-10,2023-01-10,Plenary Session,Photographer,MediaOrg_37,UK,Spanish,Social Post,Positive,724871,3032913,0,10790,ACC0230,1
+ECOV0062,2023-01-08,2023-01-08,Award Ceremony,TV,MediaOrg_44,Netherlands,Telugu,Article,Positive,5523337,11496794,47,17164,ACC0070,1
+ECOV0063,2023-01-08,2023-01-08,Cultural Program,Photographer,MediaOrg_5,Mauritius,Hindi,Article,Neutral,597282,1261215,0,4768,ACC0373,0
+ECOV0064,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_60,New Zealand,Tamil,Article,Positive,436228,1625768,0,3498,ACC0068,1
+ECOV0065,2023-01-08,2023-01-08,Award Ceremony,International,MediaOrg_40,Canada,Telugu,Article,Positive,5225322,17796519,0,11772,ACC0041,1
+ECOV0066,2023-01-09,2023-01-09,Press Conference,TV,MediaOrg_46,Trinidad,French,Article,Neutral,4263804,16980399,33,15527,ACC0071,1
+ECOV0067,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_60,Australia,Spanish,Article,Positive,320361,1152749,14,24830,ACC0105,1
+ECOV0068,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_56,South Africa,Telugu,Photo Essay,Positive,652033,1575985,0,1370,ACC0312,1
+ECOV0069,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_37,Fiji,English,Press Release Pickup,Positive,333096,460540,0,14971,ACC0022,1
+ECOV0070,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_3,Mauritius,Spanish,Press Release Pickup,Positive,4561973,16779208,0,1615,ACC0098,1
+ECOV0071,2023-01-09,2023-01-09,Cultural Program,Radio,MediaOrg_30,UK,Spanish,Social Post,Neutral,324348,1020389,0,1787,ACC0354,1
+ECOV0072,2023-01-08,2023-01-08,Exhibition,Radio,MediaOrg_33,USA,Gujarati,Press Release Pickup,Positive,682486,2922711,0,22810,ACC0280,1
+ECOV0073,2023-01-09,2023-01-09,Plenary Session,Radio,MediaOrg_30,Fiji,Telugu,Photo Essay,Positive,344173,452803,0,10619,ACC0355,1
+ECOV0074,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_8,Guyana,Marathi,Social Post,Neutral,6076163,7890340,47,12585,ACC0373,1
+ECOV0075,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_3,Netherlands,Gujarati,Social Post,Positive,1391335,4145093,0,21611,ACC0077,1
+ECOV0076,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_20,Australia,Marathi,Social Post,Neutral,6502154,20758679,9,4311,ACC0104,0
+ECOV0077,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_32,Mauritius,English,Press Release Pickup,Positive,17800,72792,0,7794,ACC0112,1
+ECOV0078,2023-01-10,2023-01-10,Inaugural Ceremony,Radio,MediaOrg_39,Fiji,English,Article,Positive,480779,1965226,0,9113,ACC0318,1
+ECOV0079,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_42,UAE,English,Article,Positive,460360,1836100,44,18942,ACC0309,1
+ECOV0080,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_11,Trinidad,Tamil,Press Release Pickup,Positive,56413,186909,0,22932,ACC0305,1
+ECOV0081,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_60,India,Hindi,Social Post,Neutral,3869650,8241876,59,12417,ACC0035,1
+ECOV0082,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_8,Guyana,Tamil,Social Post,Positive,594637,1691554,0,17191,ACC0108,1
+ECOV0083,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_41,Mauritius,Hindi,Photo Essay,Positive,538087,1901739,0,19817,ACC0362,1
+ECOV0084,2023-01-09,2023-01-09,Award Ceremony,International,MediaOrg_37,Fiji,French,Article,Positive,7161844,22559915,0,16265,ACC0267,1
+ECOV0085,2023-01-10,2023-01-10,Award Ceremony,Radio,MediaOrg_15,Guyana,Tamil,Article,Neutral,521428,524313,0,785,ACC0239,1
+ECOV0086,2023-01-08,2023-01-08,Press Conference,Photographer,MediaOrg_27,India,French,Social Post,Neutral,222402,658633,0,20889,ACC0109,0
+ECOV0087,2023-01-10,2023-01-10,Side Event,TV,MediaOrg_5,Australia,Tamil,Press Release Pickup,Positive,5838282,17076844,51,200,ACC0059,1
+ECOV0088,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_2,New Zealand,Gujarati,Article,Neutral,420287,906475,0,11073,ACC0345,1
+ECOV0089,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_41,South Africa,French,Photo Essay,Positive,682015,2553437,0,13564,ACC0381,0
+ECOV0090,2023-01-10,2023-01-10,Cultural Program,Digital,MediaOrg_36,Mauritius,English,Article,Neutral,597385,1804635,0,10869,ACC0182,1
+ECOV0091,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_41,Mauritius,Gujarati,Press Release Pickup,Positive,37687,117580,0,6140,ACC0305,1
+ECOV0092,2023-01-09,2023-01-09,Cultural Program,Photographer,MediaOrg_27,USA,Marathi,Article,Neutral,334776,770166,0,9916,ACC0111,1
+ECOV0093,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_50,Canada,Hindi,Photo Essay,Positive,991464,2747328,53,15815,ACC0257,1
+ECOV0094,2023-01-08,2023-01-08,Award Ceremony,Digital,MediaOrg_20,Netherlands,French,Article,Neutral,511957,1890751,0,3219,ACC0265,1
+ECOV0095,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_46,New Zealand,Hindi,Live Broadcast,Positive,6128139,12798217,4,22513,ACC0305,1
+ECOV0096,2023-01-08,2023-01-08,Inaugural Ceremony,Digital,MediaOrg_34,Netherlands,Tamil,Live Broadcast,Neutral,494554,1494274,0,10228,ACC0328,1
+ECOV0097,2023-01-08,2023-01-08,Cultural Program,Digital,MediaOrg_35,UAE,Marathi,Live Broadcast,Positive,215297,420752,0,5160,ACC0141,1
+ECOV0098,2023-01-08,2023-01-08,Plenary Session,International,MediaOrg_35,UAE,French,Social Post,Positive,4744481,7095128,0,23080,ACC0146,1
+ECOV0099,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_35,South Africa,English,Article,Positive,647628,713345,59,22134,ACC0026,1
+ECOV0100,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_46,Fiji,Marathi,Press Release Pickup,Positive,95302,213922,0,10889,ACC0102,1
+ECOV0101,2023-01-10,2023-01-10,Side Event,International,MediaOrg_49,South Africa,Gujarati,Live Broadcast,Negative,708888,2725659,0,22891,ACC0240,1
+ECOV0102,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_30,South Africa,Telugu,Article,Positive,722727,1086277,0,20215,ACC0133,1
+ECOV0103,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_22,Netherlands,French,Photo Essay,Positive,197259,533836,0,2141,ACC0244,1
+ECOV0104,2023-01-09,2023-01-09,Cultural Program,Radio,MediaOrg_50,UAE,Gujarati,Press Release Pickup,Neutral,488646,664686,0,23405,ACC0055,1
+ECOV0105,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_30,Singapore,Spanish,Article,Neutral,79369,251842,0,17955,ACC0082,1
+ECOV0106,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_38,Singapore,Spanish,Press Release Pickup,Positive,362264,1360534,0,17843,ACC0356,1
+ECOV0107,2023-01-08,2023-01-08,Exhibition,Photographer,MediaOrg_37,New Zealand,Marathi,Live Broadcast,Positive,707131,2172710,0,15168,ACC0167,1
+ECOV0108,2023-01-08,2023-01-08,Press Conference,Radio,MediaOrg_5,Fiji,Hindi,Press Release Pickup,Positive,189731,701948,0,12416,ACC0168,1
+ECOV0109,2023-01-10,2023-01-10,Side Event,Photographer,MediaOrg_9,Germany,English,Article,Positive,69468,230153,0,14843,ACC0273,1
+ECOV0110,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_44,Germany,French,Social Post,Positive,4898040,14674368,0,22267,ACC0156,1
+ECOV0111,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_1,Fiji,Spanish,Article,Negative,365987,1458007,0,2045,ACC0190,1
+ECOV0112,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_23,USA,Tamil,Live Broadcast,Neutral,5884,10728,0,23010,ACC0303,1
+ECOV0113,2023-01-10,2023-01-10,Press Conference,Digital,MediaOrg_28,Mauritius,Telugu,Article,Positive,751348,2000125,0,6167,ACC0285,1
+ECOV0114,2023-01-09,2023-01-09,Side Event,Radio,MediaOrg_43,UK,Gujarati,Live Broadcast,Positive,166760,208635,0,514,ACC0074,1
+ECOV0115,2023-01-09,2023-01-09,Plenary Session,Photographer,MediaOrg_6,UK,Spanish,Photo Essay,Negative,462949,1910839,0,22786,ACC0310,1
+ECOV0116,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_36,New Zealand,Marathi,Photo Essay,Positive,1558249,3496048,0,6088,ACC0218,1
+ECOV0117,2023-01-08,2023-01-08,Plenary Session,International,MediaOrg_46,Mauritius,Tamil,Photo Essay,Neutral,4228843,17942877,0,18885,ACC0188,0
+ECOV0118,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_38,South Africa,Hindi,Article,Neutral,4103946,14592192,0,17249,ACC0385,1
+ECOV0119,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_6,Canada,Marathi,Live Broadcast,Positive,547060,1856863,0,17668,ACC0297,1
+ECOV0120,2023-01-10,2023-01-10,Inaugural Ceremony,Print,MediaOrg_31,South Africa,Marathi,Press Release Pickup,Positive,365234,1303283,0,13795,ACC0181,1
+ECOV0121,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_48,Australia,Tamil,Live Broadcast,Positive,180645,578524,0,18944,ACC0087,1
+ECOV0122,2023-01-08,2023-01-08,Award Ceremony,Photographer,MediaOrg_2,Australia,Marathi,Live Broadcast,Neutral,310925,448936,0,2518,ACC0143,1
+ECOV0123,2023-01-08,2023-01-08,Cultural Program,International,MediaOrg_1,Guyana,Hindi,Press Release Pickup,Positive,2406963,3877974,0,19391,ACC0379,1
+ECOV0124,2023-01-10,2023-01-10,Cultural Program,Radio,MediaOrg_51,Guyana,Telugu,Photo Essay,Neutral,392728,641258,0,17281,ACC0017,1
+ECOV0125,2023-01-08,2023-01-08,Plenary Session,TV,MediaOrg_54,South Africa,Spanish,Photo Essay,Negative,5045785,9247995,30,23789,ACC0327,1
+ECOV0126,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_42,Australia,Hindi,Live Broadcast,Neutral,6210267,9853218,0,13066,ACC0244,1
+ECOV0127,2023-01-09,2023-01-09,Plenary Session,Photographer,MediaOrg_25,Trinidad,Spanish,Photo Essay,Negative,793977,1523791,0,17381,ACC0223,0
+ECOV0128,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_44,India,Hindi,Press Release Pickup,Positive,405560,1310358,0,14148,ACC0313,1
+ECOV0129,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_7,Australia,Spanish,Photo Essay,Positive,356238,1320228,0,24546,ACC0124,1
+ECOV0130,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_44,Guyana,Gujarati,Social Post,Positive,6513399,18997265,0,22046,ACC0005,1
+ECOV0131,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_44,South Africa,French,Article,Positive,436225,1543528,0,8254,ACC0099,0
+ECOV0132,2023-01-08,2023-01-08,Award Ceremony,International,MediaOrg_43,Germany,Telugu,Press Release Pickup,Positive,821259,2655368,0,23202,ACC0062,1
+ECOV0133,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_37,Netherlands,Gujarati,Live Broadcast,Positive,3203767,11004259,18,9652,ACC0240,1
+ECOV0134,2023-01-08,2023-01-08,Cultural Program,Photographer,MediaOrg_50,Singapore,French,Social Post,Negative,480470,752839,0,2424,ACC0142,1
+ECOV0135,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_17,New Zealand,Tamil,Article,Positive,412466,1048493,0,16112,ACC0103,1
+ECOV0136,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_35,Netherlands,Spanish,Article,Positive,5464705,17207711,8,14469,ACC0367,1
+ECOV0137,2023-01-08,2023-01-08,Exhibition,Print,MediaOrg_17,Netherlands,Marathi,Live Broadcast,Positive,81461,337068,0,4877,ACC0335,1
+ECOV0138,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_45,UAE,Spanish,Press Release Pickup,Positive,701889,710987,0,23186,ACC0395,1
+ECOV0139,2023-01-09,2023-01-09,Side Event,Radio,MediaOrg_52,Netherlands,Hindi,Press Release Pickup,Neutral,428533,767272,0,12596,ACC0353,1
+ECOV0140,2023-01-09,2023-01-09,Cultural Program,Print,MediaOrg_22,Trinidad,Tamil,Photo Essay,Positive,599798,715667,0,21203,ACC0047,1
+ECOV0141,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_50,Australia,Telugu,Article,Neutral,89365,262792,0,12588,ACC0339,1
+ECOV0142,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_45,UAE,Marathi,Live Broadcast,Neutral,414054,1696896,0,14351,ACC0377,1
+ECOV0143,2023-01-08,2023-01-08,Award Ceremony,Print,MediaOrg_16,South Africa,Spanish,Live Broadcast,Positive,207472,783121,0,21083,ACC0158,1
+ECOV0144,2023-01-10,2023-01-10,Inaugural Ceremony,Radio,MediaOrg_22,Netherlands,English,Photo Essay,Positive,22215,31404,0,21425,ACC0342,1
+ECOV0145,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_15,Germany,Hindi,Live Broadcast,Positive,567625,2028753,0,16020,ACC0335,0
+ECOV0146,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_9,India,Gujarati,Live Broadcast,Positive,434212,1809065,0,3188,ACC0234,1
+ECOV0147,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_8,South Africa,Telugu,Live Broadcast,Neutral,586515,2237899,0,13966,ACC0173,1
+ECOV0148,2023-01-10,2023-01-10,Exhibition,Photographer,MediaOrg_37,Mauritius,Gujarati,Social Post,Positive,426536,1675217,0,6987,ACC0392,0
+ECOV0149,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_10,Netherlands,Spanish,Article,Positive,2864409,9845074,37,5406,ACC0225,1
+ECOV0150,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_41,Fiji,Spanish,Article,Positive,144849,152773,0,15956,ACC0042,0
+ECOV0151,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_38,Germany,Tamil,Photo Essay,Positive,7818999,26797760,52,15597,ACC0355,1
+ECOV0152,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_27,Canada,Gujarati,Press Release Pickup,Positive,5417247,18531629,40,5898,ACC0368,1
+ECOV0153,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_23,Singapore,English,Press Release Pickup,Neutral,662658,1209176,0,3850,ACC0272,1
+ECOV0154,2023-01-10,2023-01-10,Press Conference,Digital,MediaOrg_50,Trinidad,Telugu,Social Post,Positive,570940,676987,0,3692,ACC0077,1
+ECOV0155,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_4,Trinidad,French,Social Post,Positive,189888,329183,0,8237,ACC0172,1
+ECOV0156,2023-01-09,2023-01-09,Award Ceremony,Print,MediaOrg_12,UK,English,Photo Essay,Neutral,114493,320828,0,2321,ACC0121,1
+ECOV0157,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_48,Trinidad,French,Article,Positive,4913394,18309337,0,10686,ACC0117,1
+ECOV0158,2023-01-08,2023-01-08,Press Conference,Photographer,MediaOrg_58,Canada,Hindi,Photo Essay,Neutral,437637,1333840,0,1780,ACC0224,1
+ECOV0159,2023-01-08,2023-01-08,Cultural Program,International,MediaOrg_9,South Africa,Telugu,Social Post,Positive,3866740,17069513,0,6626,ACC0172,1
+ECOV0160,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_8,New Zealand,Marathi,Photo Essay,Positive,601289,1481445,0,24914,ACC0176,1
+ECOV0161,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_40,Germany,Gujarati,Press Release Pickup,Neutral,1365234,6000852,0,7526,ACC0045,1
+ECOV0162,2023-01-10,2023-01-10,Side Event,Radio,MediaOrg_30,Australia,English,Photo Essay,Positive,231956,829619,0,8082,ACC0127,1
+ECOV0163,2023-01-09,2023-01-09,Award Ceremony,International,MediaOrg_10,Germany,English,Photo Essay,Neutral,1915681,8487700,0,1312,ACC0241,1
+ECOV0164,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_52,Netherlands,Hindi,Photo Essay,Positive,451376,1233835,0,2722,ACC0286,1
+ECOV0165,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_9,UAE,Tamil,Article,Positive,772333,2523011,0,2973,ACC0009,1
+ECOV0166,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_37,Guyana,English,Photo Essay,Neutral,174662,458166,0,4542,ACC0361,1
+ECOV0167,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_1,New Zealand,Hindi,Photo Essay,Positive,662258,2733152,0,10908,ACC0272,0
+ECOV0168,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_35,Fiji,Telugu,Live Broadcast,Positive,794460,2519703,0,11000,ACC0377,1
+ECOV0169,2023-01-08,2023-01-08,Cultural Program,International,MediaOrg_57,India,Hindi,Photo Essay,Neutral,7979937,18190809,0,20287,ACC0021,1
+ECOV0170,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_36,Guyana,Telugu,Article,Positive,5487266,24332626,17,17682,ACC0059,1
+ECOV0171,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_14,Netherlands,Telugu,Social Post,Positive,793819,1773781,0,8760,ACC0258,1
+ECOV0172,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_29,South Africa,Hindi,Photo Essay,Positive,62105,216397,0,22226,ACC0273,1
+ECOV0173,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_45,Netherlands,Hindi,Article,Positive,656114,2704279,0,15003,ACC0045,1
+ECOV0174,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_7,UK,Tamil,Live Broadcast,Negative,2469045,8492989,33,4931,ACC0105,1
+ECOV0175,2023-01-10,2023-01-10,Exhibition,Print,MediaOrg_35,Germany,Gujarati,Photo Essay,Positive,312410,691504,0,14544,ACC0378,1
+ECOV0176,2023-01-08,2023-01-08,Side Event,Digital,MediaOrg_52,Canada,French,Photo Essay,Positive,203244,614907,0,21487,ACC0331,1
+ECOV0177,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_54,Mauritius,Marathi,Photo Essay,Positive,627180,1294680,0,4323,ACC0157,1
+ECOV0178,2023-01-09,2023-01-09,Cultural Program,TV,MediaOrg_50,New Zealand,English,Article,Positive,4112125,9194395,31,5451,ACC0317,1
+ECOV0179,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_54,Guyana,Gujarati,Article,Positive,566320,1037876,0,1348,ACC0163,1
+ECOV0180,2023-01-08,2023-01-08,Plenary Session,Radio,MediaOrg_36,Guyana,English,Social Post,Positive,278056,1229863,0,4847,ACC0191,1
+ECOV0181,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_26,Germany,Marathi,Article,Positive,4526521,19542175,22,5113,ACC0003,1
+ECOV0182,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_31,Germany,Tamil,Press Release Pickup,Positive,2828983,9432132,0,18521,ACC0374,1
+ECOV0183,2023-01-09,2023-01-09,Press Conference,Digital,MediaOrg_58,India,Gujarati,Press Release Pickup,Positive,727622,1025267,0,812,ACC0206,1
+ECOV0184,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_39,Trinidad,Telugu,Press Release Pickup,Positive,379754,1079457,0,9107,ACC0101,0
+ECOV0185,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_6,Mauritius,Spanish,Article,Positive,7175714,19493751,0,19764,ACC0310,1
+ECOV0186,2023-01-08,2023-01-08,Exhibition,Photographer,MediaOrg_55,Singapore,French,Photo Essay,Positive,383603,884170,0,9327,ACC0177,1
+ECOV0187,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_57,South Africa,Spanish,Photo Essay,Positive,593285,1192632,0,23855,ACC0218,1
+ECOV0188,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_10,Canada,Tamil,Photo Essay,Positive,7058778,31477480,35,10990,ACC0034,1
+ECOV0189,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_59,Australia,Spanish,Article,Positive,97744,287890,0,23273,ACC0291,1
+ECOV0190,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_36,South Africa,English,Social Post,Neutral,1610334,6314197,21,16190,ACC0287,1
+ECOV0191,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_17,Australia,Marathi,Live Broadcast,Neutral,275150,904788,59,9426,ACC0214,1
+ECOV0192,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_49,Australia,Marathi,Live Broadcast,Positive,681106,2108785,0,11854,ACC0298,1
+ECOV0193,2023-01-10,2023-01-10,Press Conference,Radio,MediaOrg_45,New Zealand,Hindi,Social Post,Positive,275439,769532,0,18850,ACC0009,1
+ECOV0194,2023-01-09,2023-01-09,Cultural Program,TV,MediaOrg_30,Germany,Gujarati,Social Post,Positive,4929271,7746748,19,11834,ACC0215,1
+ECOV0195,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_60,USA,Telugu,Article,Positive,308936,1135776,0,19620,ACC0386,1
+ECOV0196,2023-01-10,2023-01-10,Exhibition,Digital,MediaOrg_52,Australia,Tamil,Social Post,Neutral,336570,449461,0,19006,ACC0181,1
+ECOV0197,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_50,South Africa,Spanish,Social Post,Positive,148601,627568,0,5342,ACC0053,1
+ECOV0198,2023-01-08,2023-01-08,Side Event,International,MediaOrg_58,Mauritius,Hindi,Photo Essay,Neutral,1904834,4974892,0,2503,ACC0060,1
+ECOV0199,2023-01-08,2023-01-08,Exhibition,Print,MediaOrg_24,UK,Marathi,Press Release Pickup,Positive,507811,1437574,0,11208,ACC0089,1
+ECOV0200,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_9,New Zealand,Gujarati,Article,Neutral,785623,1630952,0,6876,ACC0067,1
+ECOV0201,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_31,Netherlands,Spanish,Live Broadcast,Positive,122149,206093,0,1074,ACC0338,1
+ECOV0202,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_3,USA,Tamil,Live Broadcast,Positive,496868,1809059,0,4056,ACC0309,1
+ECOV0203,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_6,UK,Tamil,Press Release Pickup,Positive,1600062,3548022,12,16404,ACC0400,1
+ECOV0204,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_53,Fiji,English,Press Release Pickup,Positive,4285485,7540281,14,9235,ACC0088,1
+ECOV0205,2023-01-10,2023-01-10,Plenary Session,Print,MediaOrg_59,Mauritius,Marathi,Social Post,Positive,765583,2636258,0,6066,ACC0226,1
+ECOV0206,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_28,Canada,Telugu,Photo Essay,Positive,7052324,9837704,22,4050,ACC0239,1
+ECOV0207,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_19,Mauritius,English,Live Broadcast,Neutral,4209206,9043074,9,12608,ACC0146,1
+ECOV0208,2023-01-10,2023-01-10,Side Event,Photographer,MediaOrg_29,Canada,Spanish,Social Post,Positive,332162,1477246,0,14023,ACC0097,1
+ECOV0209,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_44,South Africa,Hindi,Photo Essay,Positive,717120,1816611,0,21579,ACC0347,1
+ECOV0210,2023-01-08,2023-01-08,Award Ceremony,TV,MediaOrg_7,Guyana,Gujarati,Live Broadcast,Positive,3361918,7641589,14,11096,ACC0103,1
+ECOV0211,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_32,Australia,Tamil,Photo Essay,Neutral,249181,559745,0,21845,ACC0309,1
+ECOV0212,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_7,USA,Tamil,Photo Essay,Positive,2389504,6548335,0,20590,ACC0069,0
+ECOV0213,2023-01-08,2023-01-08,Press Conference,Photographer,MediaOrg_44,India,Gujarati,Photo Essay,Neutral,60419,188268,0,10713,ACC0079,1
+ECOV0214,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_49,Mauritius,Marathi,Photo Essay,Neutral,858105,1464580,0,21695,ACC0255,1
+ECOV0215,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_35,Mauritius,English,Live Broadcast,Positive,573787,2563387,0,3903,ACC0197,1
+ECOV0216,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_12,Mauritius,Tamil,Article,Positive,469053,1275907,0,4406,ACC0160,1
+ECOV0217,2023-01-09,2023-01-09,Press Conference,Radio,MediaOrg_43,Mauritius,Marathi,Photo Essay,Positive,119695,355242,0,5121,ACC0260,0
+ECOV0218,2023-01-09,2023-01-09,Press Conference,Digital,MediaOrg_40,Trinidad,French,Social Post,Positive,523721,1111173,0,922,ACC0303,0
+ECOV0219,2023-01-08,2023-01-08,Award Ceremony,Digital,MediaOrg_2,Netherlands,French,Photo Essay,Neutral,370823,497171,0,11309,ACC0183,1
+ECOV0220,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_42,Australia,Hindi,Live Broadcast,Positive,698360,2822275,0,3750,ACC0173,1
+ECOV0221,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_56,Singapore,Spanish,Social Post,Positive,2785666,2984584,0,15391,ACC0302,0
+ECOV0222,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_7,Netherlands,Marathi,Live Broadcast,Positive,603059,2061270,0,6747,ACC0173,1
+ECOV0223,2023-01-10,2023-01-10,Cultural Program,Photographer,MediaOrg_24,Singapore,Telugu,Photo Essay,Positive,361032,1163986,0,2468,ACC0275,1
+ECOV0224,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_26,Netherlands,Telugu,Press Release Pickup,Positive,54840,197429,0,3013,ACC0368,1
+ECOV0225,2023-01-10,2023-01-10,Inaugural Ceremony,Print,MediaOrg_37,Netherlands,Marathi,Photo Essay,Positive,625615,1084870,0,2512,ACC0334,1
+ECOV0226,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_35,UAE,Telugu,Photo Essay,Positive,6795503,16363933,0,20478,ACC0264,1
+ECOV0227,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_46,Mauritius,Gujarati,Press Release Pickup,Neutral,1564989,4299357,0,21653,ACC0381,1
+ECOV0228,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_50,Germany,Spanish,Press Release Pickup,Neutral,563596,1996906,0,1962,ACC0268,1
+ECOV0229,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_44,Netherlands,Tamil,Photo Essay,Positive,159920,389550,0,2111,ACC0325,1
+ECOV0230,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_44,Fiji,Telugu,Photo Essay,Positive,305988,561393,0,4913,ACC0099,0
+ECOV0231,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_28,Trinidad,English,Article,Positive,491706,765957,0,4470,ACC0015,1
+ECOV0232,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_3,Guyana,Marathi,Live Broadcast,Positive,582457,695247,0,2750,ACC0161,1
+ECOV0233,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_43,Germany,Hindi,Photo Essay,Neutral,431777,1857102,0,23731,ACC0072,1
+ECOV0234,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_34,Trinidad,Tamil,Photo Essay,Positive,6211268,25441210,0,7801,ACC0308,1
+ECOV0235,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_48,Guyana,Telugu,Photo Essay,Neutral,617710,1089040,0,3500,ACC0090,1
+ECOV0236,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_4,South Africa,French,Live Broadcast,Positive,433212,913087,0,13886,ACC0244,1
+ECOV0237,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_24,New Zealand,Tamil,Live Broadcast,Positive,156950,511483,0,19851,ACC0018,1
+ECOV0238,2023-01-10,2023-01-10,Side Event,Photographer,MediaOrg_43,Canada,Tamil,Press Release Pickup,Positive,62328,146247,0,20937,ACC0359,1
+ECOV0239,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_29,Singapore,English,Photo Essay,Neutral,565894,2402942,0,8373,ACC0155,1
+ECOV0240,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_59,South Africa,French,Photo Essay,Neutral,225606,848867,0,8979,ACC0042,1
+ECOV0241,2023-01-09,2023-01-09,Side Event,Radio,MediaOrg_22,Guyana,Spanish,Live Broadcast,Positive,777739,3021829,0,22887,ACC0134,1
+ECOV0242,2023-01-08,2023-01-08,Side Event,Digital,MediaOrg_36,Guyana,French,Photo Essay,Positive,446314,1532301,0,24968,ACC0027,1
+ECOV0243,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_9,India,Spanish,Article,Positive,5336134,17070489,22,18868,ACC0043,1
+ECOV0244,2023-01-08,2023-01-08,Side Event,TV,MediaOrg_54,Trinidad,Gujarati,Press Release Pickup,Neutral,4381591,14898008,52,10466,ACC0232,1
+ECOV0245,2023-01-10,2023-01-10,Award Ceremony,TV,MediaOrg_53,UAE,Tamil,Article,Positive,2236741,2897466,25,5960,ACC0202,1
+ECOV0246,2023-01-09,2023-01-09,Inaugural Ceremony,International,MediaOrg_60,Mauritius,Telugu,Live Broadcast,Positive,1933134,8524050,0,6496,ACC0135,1
+ECOV0247,2023-01-08,2023-01-08,Award Ceremony,Print,MediaOrg_17,UK,Hindi,Social Post,Positive,425515,678879,0,18587,ACC0061,0
+ECOV0248,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_53,Trinidad,Marathi,Live Broadcast,Neutral,3700376,6607738,0,6656,ACC0098,1
+ECOV0249,2023-01-09,2023-01-09,Plenary Session,Digital,MediaOrg_28,New Zealand,Telugu,Press Release Pickup,Positive,787702,1382009,0,9272,ACC0373,1
+ECOV0250,2023-01-08,2023-01-08,Plenary Session,Radio,MediaOrg_2,Australia,Tamil,Article,Positive,194131,613819,0,8136,ACC0190,1
+ECOV0251,2023-01-10,2023-01-10,Press Conference,Photographer,MediaOrg_9,New Zealand,French,Photo Essay,Positive,485419,1652358,0,23374,ACC0197,1
+ECOV0252,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_36,India,English,Social Post,Positive,631205,2688129,0,15431,ACC0182,1
+ECOV0253,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_1,Australia,Spanish,Social Post,Neutral,6002270,26538037,0,21995,ACC0190,1
+ECOV0254,2023-01-10,2023-01-10,Plenary Session,Print,MediaOrg_33,South Africa,French,Photo Essay,Positive,613684,897033,0,10397,ACC0364,1
+ECOV0255,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_9,South Africa,Tamil,Social Post,Positive,2234443,9478126,20,8625,ACC0314,1
+ECOV0256,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_21,Guyana,Marathi,Article,Positive,2675720,7879624,0,21542,ACC0326,1
+ECOV0257,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_12,India,Marathi,Social Post,Positive,203096,319356,0,15307,ACC0224,1
+ECOV0258,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_36,South Africa,Marathi,Photo Essay,Positive,467966,652212,0,23585,ACC0076,1
+ECOV0259,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_54,UK,Tamil,Press Release Pickup,Neutral,218630,900346,0,19191,ACC0109,1
+ECOV0260,2023-01-08,2023-01-08,Press Conference,International,MediaOrg_59,USA,Telugu,Photo Essay,Positive,6482784,21841664,0,10769,ACC0014,1
+ECOV0261,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_60,USA,French,Article,Positive,132916,146348,0,15080,ACC0363,1
+ECOV0262,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_43,India,French,Live Broadcast,Negative,663879,2188546,0,14847,ACC0167,1
+ECOV0263,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_52,Trinidad,Tamil,Social Post,Positive,1134816,4304940,0,24372,ACC0037,1
+ECOV0264,2023-01-10,2023-01-10,Plenary Session,Radio,MediaOrg_16,Netherlands,Spanish,Live Broadcast,Positive,102046,109372,0,6823,ACC0084,1
+ECOV0265,2023-01-09,2023-01-09,Exhibition,Digital,MediaOrg_10,USA,Tamil,Photo Essay,Neutral,683604,2600328,0,24113,ACC0159,1
+ECOV0266,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_54,UAE,Telugu,Photo Essay,Positive,1151312,2946263,0,12716,ACC0244,1
+ECOV0267,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_52,UAE,Gujarati,Photo Essay,Positive,3598973,11543352,0,3045,ACC0021,1
+ECOV0268,2023-01-09,2023-01-09,Exhibition,Radio,MediaOrg_46,UK,Marathi,Press Release Pickup,Positive,714298,2288224,0,17192,ACC0043,1
+ECOV0269,2023-01-09,2023-01-09,Press Conference,Radio,MediaOrg_20,UK,Gujarati,Social Post,Neutral,88029,347308,0,17140,ACC0219,1
+ECOV0270,2023-01-10,2023-01-10,Inaugural Ceremony,Print,MediaOrg_33,USA,Spanish,Photo Essay,Positive,582759,775474,0,21654,ACC0369,1
+ECOV0271,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_33,India,Hindi,Photo Essay,Positive,272240,443324,0,5970,ACC0202,0
+ECOV0272,2023-01-08,2023-01-08,Award Ceremony,Radio,MediaOrg_47,South Africa,Marathi,Press Release Pickup,Positive,743594,2846045,0,11184,ACC0096,1
+ECOV0273,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_56,Trinidad,Hindi,Photo Essay,Negative,788317,2262718,0,191,ACC0203,1
+ECOV0274,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_26,New Zealand,Marathi,Social Post,Positive,5551257,17568328,41,11820,ACC0354,1
+ECOV0275,2023-01-10,2023-01-10,Inaugural Ceremony,Photographer,MediaOrg_9,UK,English,Article,Neutral,419184,583375,0,520,ACC0357,1
+ECOV0276,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_16,Singapore,Telugu,Live Broadcast,Positive,4085903,8389227,31,4855,ACC0243,1
+ECOV0277,2023-01-08,2023-01-08,Exhibition,Print,MediaOrg_45,South Africa,Marathi,Photo Essay,Neutral,179174,191482,0,14729,ACC0300,1
+ECOV0278,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_4,UAE,English,Live Broadcast,Neutral,602091,1930565,0,23366,ACC0222,1
+ECOV0279,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_19,India,Marathi,Photo Essay,Positive,611770,1652606,0,19367,ACC0372,1
+ECOV0280,2023-01-10,2023-01-10,Award Ceremony,Radio,MediaOrg_2,Singapore,French,Press Release Pickup,Neutral,248170,303334,0,21243,ACC0214,1
+ECOV0281,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_23,South Africa,Spanish,Live Broadcast,Positive,523823,819608,0,23796,ACC0099,1
+ECOV0282,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_59,Trinidad,French,Press Release Pickup,Positive,248377,990301,0,23435,ACC0337,1
+ECOV0283,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_54,Trinidad,French,Photo Essay,Neutral,763115,2899182,0,5309,ACC0319,1
+ECOV0284,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_9,UK,Telugu,Article,Positive,790650,2466924,0,3306,ACC0213,1
+ECOV0285,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_23,Germany,Tamil,Social Post,Positive,1806850,6087724,13,16497,ACC0017,1
+ECOV0286,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_8,Mauritius,Telugu,Photo Essay,Positive,456538,868507,0,11151,ACC0182,1
+ECOV0287,2023-01-08,2023-01-08,Side Event,International,MediaOrg_45,New Zealand,Hindi,Live Broadcast,Neutral,2293879,9733415,0,14346,ACC0235,1
+ECOV0288,2023-01-08,2023-01-08,Side Event,Print,MediaOrg_7,New Zealand,English,Press Release Pickup,Positive,645231,883281,0,20641,ACC0061,1
+ECOV0289,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_29,Netherlands,Marathi,Live Broadcast,Neutral,169660,261282,0,11918,ACC0172,1
+ECOV0290,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_50,Netherlands,English,Article,Positive,216697,849852,0,15521,ACC0175,1
+ECOV0291,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_49,Singapore,French,Article,Positive,764993,1170928,50,17355,ACC0216,1
+ECOV0292,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_58,South Africa,French,Live Broadcast,Positive,6775723,17271490,51,325,ACC0368,1
+ECOV0293,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_50,UK,Spanish,Live Broadcast,Positive,93896,223137,0,1215,ACC0339,1
+ECOV0294,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_46,Netherlands,Tamil,Photo Essay,Positive,7620812,18343369,45,22963,ACC0284,1
+ECOV0295,2023-01-09,2023-01-09,Cultural Program,Photographer,MediaOrg_1,New Zealand,Tamil,Press Release Pickup,Positive,783774,2458231,0,4812,ACC0359,1
+ECOV0296,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_51,Fiji,Marathi,Social Post,Neutral,220098,903912,0,21258,ACC0208,1
+ECOV0297,2023-01-08,2023-01-08,Cultural Program,Digital,MediaOrg_25,Guyana,Gujarati,Press Release Pickup,Positive,93374,417543,0,9303,ACC0110,1
+ECOV0298,2023-01-10,2023-01-10,Side Event,International,MediaOrg_41,UK,English,Live Broadcast,Positive,2669363,10987412,0,17692,ACC0304,1
+ECOV0299,2023-01-08,2023-01-08,Award Ceremony,Digital,MediaOrg_8,Guyana,English,Social Post,Positive,766800,1463934,0,16629,ACC0182,1
+ECOV0300,2023-01-08,2023-01-08,Award Ceremony,Photographer,MediaOrg_48,India,Marathi,Social Post,Positive,135809,603036,0,24437,ACC0298,1
+ECOV0301,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_15,UAE,Tamil,Social Post,Positive,702848,2343455,0,23424,ACC0294,1
+ECOV0302,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_7,UAE,Telugu,Social Post,Positive,401011,1038652,0,4802,ACC0365,1
+ECOV0303,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_31,Canada,Marathi,Live Broadcast,Positive,101729,233216,0,17244,ACC0207,1
+ECOV0304,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_38,South Africa,Spanish,Photo Essay,Positive,6583255,22459185,0,16041,ACC0375,1
+ECOV0305,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_30,UK,Hindi,Article,Positive,4292839,11135681,4,24461,ACC0081,1
+ECOV0306,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_8,UAE,Tamil,Live Broadcast,Neutral,635823,1799201,0,3858,ACC0191,1
+ECOV0307,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_10,UK,Spanish,Live Broadcast,Positive,313261,1340403,0,9999,ACC0146,1
+ECOV0308,2023-01-08,2023-01-08,Award Ceremony,Photographer,MediaOrg_23,USA,English,Photo Essay,Positive,517537,1389130,0,10148,ACC0290,1
+ECOV0309,2023-01-09,2023-01-09,Side Event,Radio,MediaOrg_39,UK,Gujarati,Press Release Pickup,Neutral,503312,1624495,0,24958,ACC0231,1
+ECOV0310,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_52,Fiji,Spanish,Photo Essay,Neutral,7317433,13280248,27,11108,ACC0277,0
+ECOV0311,2023-01-10,2023-01-10,Inaugural Ceremony,Radio,MediaOrg_56,UK,English,Press Release Pickup,Positive,776660,2489492,0,23180,ACC0159,1
+ECOV0312,2023-01-10,2023-01-10,Plenary Session,Print,MediaOrg_40,Mauritius,English,Press Release Pickup,Positive,680192,1922316,0,24594,ACC0244,1
+ECOV0313,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_2,Australia,Telugu,Article,Negative,695229,2714116,0,18990,ACC0228,1
+ECOV0314,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_32,New Zealand,English,Social Post,Positive,2737971,6925864,0,13596,ACC0013,1
+ECOV0315,2023-01-10,2023-01-10,Inaugural Ceremony,Digital,MediaOrg_7,Mauritius,Gujarati,Social Post,Positive,405567,610021,0,8374,ACC0394,1
+ECOV0316,2023-01-08,2023-01-08,Inaugural Ceremony,Digital,MediaOrg_40,UAE,Gujarati,Live Broadcast,Positive,432060,1510720,0,9765,ACC0200,1
+ECOV0317,2023-01-09,2023-01-09,Cultural Program,TV,MediaOrg_25,New Zealand,Hindi,Live Broadcast,Neutral,3513008,6003583,50,19562,ACC0301,1
+ECOV0318,2023-01-09,2023-01-09,Inaugural Ceremony,International,MediaOrg_18,India,French,Photo Essay,Positive,6361504,18676890,0,2144,ACC0248,0
+ECOV0319,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_18,Mauritius,Hindi,Article,Neutral,250094,917951,0,21350,ACC0065,1
+ECOV0320,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_33,Canada,Gujarati,Social Post,Positive,472646,1366674,0,5511,ACC0126,1
+ECOV0321,2023-01-09,2023-01-09,Side Event,International,MediaOrg_30,New Zealand,Tamil,Article,Positive,3839486,3846782,0,15800,ACC0140,1
+ECOV0322,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_41,Canada,Tamil,Live Broadcast,Negative,403619,631646,0,17501,ACC0289,1
+ECOV0323,2023-01-09,2023-01-09,Side Event,Print,MediaOrg_9,Guyana,Tamil,Photo Essay,Positive,419507,729092,0,16541,ACC0163,1
+ECOV0324,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_46,South Africa,Tamil,Article,Positive,671023,2226433,0,10539,ACC0175,1
+ECOV0325,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_9,Trinidad,English,Press Release Pickup,Positive,2805299,7484120,0,313,ACC0345,1
+ECOV0326,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_49,Singapore,Hindi,Live Broadcast,Positive,7560053,21812814,0,22007,ACC0228,1
+ECOV0327,2023-01-08,2023-01-08,Cultural Program,Digital,MediaOrg_25,UK,English,Live Broadcast,Neutral,399659,1046876,0,6323,ACC0228,0
+ECOV0328,2023-01-08,2023-01-08,Exhibition,Photographer,MediaOrg_59,Guyana,French,Article,Neutral,25742,33847,0,20101,ACC0321,1
+ECOV0329,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_3,Australia,Marathi,Press Release Pickup,Negative,2015098,3489750,14,20920,ACC0203,1
+ECOV0330,2023-01-09,2023-01-09,Award Ceremony,International,MediaOrg_13,Trinidad,Gujarati,Live Broadcast,Positive,4247035,12989879,0,24444,ACC0034,1
+ECOV0331,2023-01-09,2023-01-09,Award Ceremony,International,MediaOrg_47,Netherlands,Tamil,Article,Positive,7226277,28665449,0,757,ACC0355,1
+ECOV0332,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_1,Singapore,English,Social Post,Positive,2171655,5459363,0,13332,ACC0141,1
+ECOV0333,2023-01-10,2023-01-10,Award Ceremony,International,MediaOrg_49,India,Telugu,Live Broadcast,Positive,3964013,7820068,0,13764,ACC0273,1
+ECOV0334,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_57,Fiji,English,Article,Positive,415893,1839633,0,13887,ACC0039,1
+ECOV0335,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_41,Trinidad,Hindi,Live Broadcast,Positive,1429771,3831618,53,787,ACC0304,1
+ECOV0336,2023-01-10,2023-01-10,Press Conference,Digital,MediaOrg_16,UAE,English,Social Post,Positive,267573,754251,0,7757,ACC0038,1
+ECOV0337,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_29,Fiji,Hindi,Live Broadcast,Neutral,3728651,16446481,0,1092,ACC0194,1
+ECOV0338,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_29,India,Tamil,Press Release Pickup,Positive,138730,442777,0,2155,ACC0053,1
+ECOV0339,2023-01-08,2023-01-08,Press Conference,International,MediaOrg_26,USA,Spanish,Article,Positive,487911,1964349,0,21617,ACC0320,0
+ECOV0340,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_40,USA,French,Live Broadcast,Neutral,491758,1273293,0,10754,ACC0301,1
+ECOV0341,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_38,Netherlands,Telugu,Press Release Pickup,Positive,17885,25771,0,16675,ACC0132,1
+ECOV0342,2023-01-09,2023-01-09,Plenary Session,Radio,MediaOrg_16,UK,English,Live Broadcast,Positive,764822,1106607,0,19153,ACC0224,1
+ECOV0343,2023-01-10,2023-01-10,Award Ceremony,Digital,MediaOrg_50,UK,Gujarati,Photo Essay,Positive,331304,689231,0,11236,ACC0150,1
+ECOV0344,2023-01-08,2023-01-08,Plenary Session,International,MediaOrg_4,Canada,English,Photo Essay,Positive,4969414,10949389,0,6565,ACC0328,1
+ECOV0345,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_45,Guyana,Marathi,Press Release Pickup,Positive,363143,1243201,0,18953,ACC0290,1
+ECOV0346,2023-01-10,2023-01-10,Inaugural Ceremony,Digital,MediaOrg_30,Germany,English,Photo Essay,Positive,444033,785015,0,121,ACC0328,1
+ECOV0347,2023-01-10,2023-01-10,Plenary Session,TV,MediaOrg_31,Guyana,French,Photo Essay,Positive,3963593,6811859,13,220,ACC0186,0
+ECOV0348,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_19,South Africa,Telugu,Press Release Pickup,Positive,36475,152993,0,11793,ACC0023,0
+ECOV0349,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_47,UK,French,Press Release Pickup,Positive,2433210,4527899,14,704,ACC0091,1
+ECOV0350,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_25,Trinidad,Hindi,Social Post,Neutral,27013,115518,0,9996,ACC0234,1
+ECOV0351,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_52,Fiji,Spanish,Live Broadcast,Positive,698013,987497,0,4285,ACC0098,1
+ECOV0352,2023-01-10,2023-01-10,Award Ceremony,Radio,MediaOrg_28,Trinidad,Telugu,Live Broadcast,Positive,733082,2690988,0,19245,ACC0097,1
+ECOV0353,2023-01-10,2023-01-10,Inaugural Ceremony,Digital,MediaOrg_41,Netherlands,Tamil,Article,Positive,160783,639958,0,19139,ACC0251,1
+ECOV0354,2023-01-10,2023-01-10,Award Ceremony,Print,MediaOrg_5,UK,Spanish,Press Release Pickup,Neutral,498530,1151570,0,17003,ACC0238,1
+ECOV0355,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_46,South Africa,Marathi,Social Post,Positive,397040,1204680,0,20909,ACC0299,1
+ECOV0356,2023-01-08,2023-01-08,Press Conference,TV,MediaOrg_56,Canada,Spanish,Article,Neutral,1891519,3917329,58,12356,ACC0293,1
+ECOV0357,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_6,Australia,Marathi,Press Release Pickup,Positive,582295,1298816,0,19135,ACC0022,1
+ECOV0358,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_28,Singapore,French,Photo Essay,Positive,2871709,6058075,0,12529,ACC0013,1
+ECOV0359,2023-01-09,2023-01-09,Cultural Program,TV,MediaOrg_58,USA,Tamil,Press Release Pickup,Positive,2278222,6367102,43,2561,ACC0142,1
+ECOV0360,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_35,Canada,French,Article,Positive,129348,434981,0,8192,ACC0155,1
+ECOV0361,2023-01-10,2023-01-10,Plenary Session,Digital,MediaOrg_55,Netherlands,Tamil,Live Broadcast,Neutral,204903,757171,0,9235,ACC0178,1
+ECOV0362,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_31,Trinidad,Gujarati,Photo Essay,Neutral,613125,1101494,0,23702,ACC0384,1
+ECOV0363,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_49,South Africa,Marathi,Social Post,Positive,4377056,16508951,22,6155,ACC0220,1
+ECOV0364,2023-01-10,2023-01-10,Side Event,Radio,MediaOrg_36,India,French,Article,Positive,224765,679077,0,4205,ACC0157,1
+ECOV0365,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_15,Singapore,Spanish,Photo Essay,Neutral,695852,2553738,0,22626,ACC0276,1
+ECOV0366,2023-01-09,2023-01-09,Inaugural Ceremony,International,MediaOrg_60,UK,Gujarati,Social Post,Positive,244949,732071,0,19759,ACC0312,1
+ECOV0367,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_35,Singapore,Telugu,Photo Essay,Negative,219124,302442,0,18661,ACC0232,1
+ECOV0368,2023-01-09,2023-01-09,Award Ceremony,Print,MediaOrg_12,India,Marathi,Live Broadcast,Positive,184750,305469,0,2277,ACC0198,1
+ECOV0369,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_30,India,French,Press Release Pickup,Positive,2491970,2588321,22,13463,ACC0201,1
+ECOV0370,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_5,Singapore,Telugu,Article,Positive,4550094,18412281,21,14162,ACC0364,1
+ECOV0371,2023-01-09,2023-01-09,Cultural Program,TV,MediaOrg_38,Canada,Marathi,Social Post,Positive,5114281,8724756,11,14605,ACC0033,1
+ECOV0372,2023-01-09,2023-01-09,Cultural Program,International,MediaOrg_59,Fiji,Marathi,Photo Essay,Positive,6824353,17875942,0,1280,ACC0378,1
+ECOV0373,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_46,Netherlands,Tamil,Photo Essay,Positive,483472,1520807,0,5738,ACC0213,1
+ECOV0374,2023-01-08,2023-01-08,Press Conference,International,MediaOrg_59,Trinidad,Gujarati,Press Release Pickup,Positive,6200896,8274287,0,22893,ACC0023,1
+ECOV0375,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_59,USA,Telugu,Photo Essay,Positive,663592,1618815,0,24964,ACC0284,1
+ECOV0376,2023-01-09,2023-01-09,Side Event,Print,MediaOrg_50,UAE,Spanish,Photo Essay,Positive,797091,1256962,0,6795,ACC0260,0
+ECOV0377,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_48,South Africa,Spanish,Social Post,Positive,81751,295190,0,6370,ACC0204,0
+ECOV0378,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_21,Trinidad,Marathi,Photo Essay,Neutral,125253,327505,0,2704,ACC0281,1
+ECOV0379,2023-01-08,2023-01-08,Side Event,Photographer,MediaOrg_18,New Zealand,Gujarati,Article,Positive,463986,1825662,0,19889,ACC0052,1
+ECOV0380,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_5,Trinidad,English,Social Post,Neutral,565625,869500,0,11733,ACC0092,1
+ECOV0381,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_45,India,Hindi,Photo Essay,Positive,712835,2435196,0,14548,ACC0027,1
+ECOV0382,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_24,Germany,Telugu,Article,Neutral,400727,528900,0,13817,ACC0015,0
+ECOV0383,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_57,USA,Gujarati,Article,Positive,5753913,6640267,34,3528,ACC0168,1
+ECOV0384,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_26,Singapore,Hindi,Article,Positive,203754,356208,0,11684,ACC0166,1
+ECOV0385,2023-01-08,2023-01-08,Press Conference,Radio,MediaOrg_14,South Africa,Telugu,Live Broadcast,Positive,690761,2281490,0,9124,ACC0333,1
+ECOV0386,2023-01-09,2023-01-09,Press Conference,Print,MediaOrg_20,Netherlands,Marathi,Live Broadcast,Neutral,75601,264139,0,18651,ACC0088,1
+ECOV0387,2023-01-08,2023-01-08,Exhibition,International,MediaOrg_25,Trinidad,Gujarati,Social Post,Negative,2770880,4471254,0,24959,ACC0353,1
+ECOV0388,2023-01-10,2023-01-10,Award Ceremony,Radio,MediaOrg_59,Fiji,Marathi,Photo Essay,Positive,75793,211355,0,24307,ACC0120,1
+ECOV0389,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_49,Germany,Hindi,Social Post,Positive,18937,34605,0,14041,ACC0388,1
+ECOV0390,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_19,Canada,Gujarati,Photo Essay,Positive,67833,116357,0,1242,ACC0122,1
+ECOV0391,2023-01-10,2023-01-10,Cultural Program,International,MediaOrg_9,Australia,French,Live Broadcast,Positive,7984587,22540928,0,13595,ACC0332,1
+ECOV0392,2023-01-09,2023-01-09,Cultural Program,Print,MediaOrg_22,Canada,Telugu,Press Release Pickup,Neutral,245134,291527,0,21790,ACC0128,1
+ECOV0393,2023-01-10,2023-01-10,Side Event,Photographer,MediaOrg_25,Mauritius,French,Article,Positive,759452,1935283,0,198,ACC0034,1
+ECOV0394,2023-01-09,2023-01-09,Plenary Session,Print,MediaOrg_14,UK,Hindi,Article,Positive,206814,635789,0,6696,ACC0121,1
+ECOV0395,2023-01-08,2023-01-08,Plenary Session,Radio,MediaOrg_47,Canada,Telugu,Photo Essay,Positive,765206,1237739,0,8158,ACC0156,1
+ECOV0396,2023-01-10,2023-01-10,Side Event,Radio,MediaOrg_51,South Africa,Hindi,Social Post,Positive,671478,1607421,0,5497,ACC0242,1
+ECOV0397,2023-01-09,2023-01-09,Side Event,International,MediaOrg_10,New Zealand,Marathi,Live Broadcast,Neutral,5161969,18927662,0,14004,ACC0043,1
+ECOV0398,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_12,Australia,Spanish,Photo Essay,Positive,4556340,9433744,0,9280,ACC0193,1
+ECOV0399,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_31,Canada,Gujarati,Article,Positive,80434,81610,0,16406,ACC0374,1
+ECOV0400,2023-01-09,2023-01-09,Press Conference,Radio,MediaOrg_48,UAE,Spanish,Photo Essay,Negative,429206,891605,0,19277,ACC0037,1
+ECOV0401,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_13,Netherlands,Spanish,Social Post,Negative,408519,1511294,0,24627,ACC0370,1
+ECOV0402,2023-01-10,2023-01-10,Cultural Program,Photographer,MediaOrg_45,India,Spanish,Photo Essay,Positive,517357,1849460,0,7941,ACC0245,0
+ECOV0403,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_43,Trinidad,Gujarati,Social Post,Positive,745880,2326418,0,22317,ACC0076,1
+ECOV0404,2023-01-08,2023-01-08,Side Event,International,MediaOrg_11,India,Hindi,Live Broadcast,Negative,4901482,15956239,0,12594,ACC0204,1
+ECOV0405,2023-01-10,2023-01-10,Press Conference,Print,MediaOrg_11,New Zealand,Spanish,Social Post,Neutral,548725,1877423,0,16405,ACC0273,1
+ECOV0406,2023-01-09,2023-01-09,Side Event,International,MediaOrg_57,Germany,Hindi,Live Broadcast,Neutral,2633513,8497374,0,11285,ACC0074,1
+ECOV0407,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_20,India,Gujarati,Photo Essay,Neutral,7851546,7894925,6,22816,ACC0214,1
+ECOV0408,2023-01-09,2023-01-09,Plenary Session,Photographer,MediaOrg_12,UAE,Gujarati,Article,Neutral,307346,520358,0,5963,ACC0258,1
+ECOV0409,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_4,Guyana,Gujarati,Article,Positive,6881434,13127929,0,13395,ACC0226,1
+ECOV0410,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_6,Singapore,Hindi,Social Post,Positive,672349,823572,0,972,ACC0300,1
+ECOV0411,2023-01-09,2023-01-09,Inaugural Ceremony,Radio,MediaOrg_4,Australia,English,Press Release Pickup,Neutral,710486,2673008,0,1371,ACC0050,1
+ECOV0412,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_18,Germany,Marathi,Photo Essay,Positive,398914,1455713,0,19804,ACC0220,1
+ECOV0413,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_16,UAE,Spanish,Photo Essay,Negative,364742,1144499,0,11666,ACC0170,1
+ECOV0414,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_47,New Zealand,Gujarati,Live Broadcast,Neutral,484114,1503988,0,17387,ACC0144,1
+ECOV0415,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_56,South Africa,Spanish,Article,Positive,478870,484114,0,20908,ACC0165,0
+ECOV0416,2023-01-10,2023-01-10,Exhibition,Digital,MediaOrg_21,Trinidad,Marathi,Article,Negative,52976,165479,0,13112,ACC0379,1
+ECOV0417,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_43,New Zealand,Hindi,Photo Essay,Negative,453702,920343,0,6392,ACC0365,1
+ECOV0418,2023-01-10,2023-01-10,Award Ceremony,International,MediaOrg_3,UK,Marathi,Live Broadcast,Neutral,6633899,13630798,0,22054,ACC0281,1
+ECOV0419,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_31,Trinidad,Telugu,Article,Positive,7569620,13176762,50,21618,ACC0359,1
+ECOV0420,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_58,Singapore,Tamil,Article,Positive,755534,2657298,0,21821,ACC0244,1
+ECOV0421,2023-01-10,2023-01-10,Award Ceremony,Print,MediaOrg_41,Guyana,Marathi,Live Broadcast,Positive,702802,2659678,0,10905,ACC0115,1
+ECOV0422,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_59,Guyana,Spanish,Press Release Pickup,Positive,592466,2596107,0,14318,ACC0120,1
+ECOV0423,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_22,Guyana,Telugu,Live Broadcast,Positive,310110,931860,0,4175,ACC0161,1
+ECOV0424,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_35,Canada,Spanish,Photo Essay,Positive,6760,14322,0,11961,ACC0348,1
+ECOV0425,2023-01-08,2023-01-08,Plenary Session,International,MediaOrg_7,Singapore,English,Press Release Pickup,Positive,5617877,22377504,0,10352,ACC0075,1
+ECOV0426,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_39,Australia,Gujarati,Live Broadcast,Positive,4242900,13136362,21,16461,ACC0353,1
+ECOV0427,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_14,South Africa,Tamil,Photo Essay,Positive,606853,731770,0,10916,ACC0079,1
+ECOV0428,2023-01-10,2023-01-10,Side Event,TV,MediaOrg_15,Guyana,English,Article,Neutral,7164126,28647375,48,12838,ACC0154,1
+ECOV0429,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_28,Trinidad,Marathi,Social Post,Positive,230907,843272,27,2353,ACC0271,1
+ECOV0430,2023-01-09,2023-01-09,Exhibition,Digital,MediaOrg_55,Mauritius,Spanish,Live Broadcast,Negative,735203,1072038,0,24650,ACC0298,1
+ECOV0431,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_37,UK,Marathi,Photo Essay,Positive,323844,653771,0,4745,ACC0108,1
+ECOV0432,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_47,New Zealand,Hindi,Article,Positive,6218301,14413681,29,22264,ACC0087,1
+ECOV0433,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_4,USA,French,Press Release Pickup,Negative,377856,951583,0,4868,ACC0322,1
+ECOV0434,2023-01-09,2023-01-09,Press Conference,TV,MediaOrg_32,Australia,Gujarati,Photo Essay,Positive,335152,1245248,52,21978,ACC0338,1
+ECOV0435,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_29,UAE,English,Live Broadcast,Positive,405661,571250,0,3999,ACC0251,1
+ECOV0436,2023-01-10,2023-01-10,Award Ceremony,International,MediaOrg_37,South Africa,Tamil,Live Broadcast,Positive,1936891,7321841,0,5934,ACC0197,1
+ECOV0437,2023-01-10,2023-01-10,Plenary Session,Photographer,MediaOrg_7,UAE,Hindi,Press Release Pickup,Positive,459721,757213,0,22961,ACC0011,1
+ECOV0438,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_5,Mauritius,Hindi,Article,Neutral,6622260,29004728,0,3844,ACC0093,1
+ECOV0439,2023-01-10,2023-01-10,Press Conference,Photographer,MediaOrg_52,UAE,Hindi,Live Broadcast,Positive,193678,280998,0,6757,ACC0335,1
+ECOV0440,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_6,USA,Tamil,Social Post,Neutral,2203863,9657254,0,5623,ACC0217,1
+ECOV0441,2023-01-08,2023-01-08,Award Ceremony,TV,MediaOrg_58,Netherlands,Tamil,Press Release Pickup,Positive,2571615,6576187,38,16070,ACC0356,1
+ECOV0442,2023-01-10,2023-01-10,Plenary Session,Digital,MediaOrg_45,USA,English,Article,Positive,640617,722980,0,4642,ACC0154,1
+ECOV0443,2023-01-08,2023-01-08,Award Ceremony,TV,MediaOrg_23,Australia,Gujarati,Press Release Pickup,Positive,5101153,12635824,37,8354,ACC0134,1
+ECOV0444,2023-01-10,2023-01-10,Cultural Program,TV,MediaOrg_44,Singapore,Gujarati,Press Release Pickup,Positive,3405941,5834956,42,24008,ACC0138,1
+ECOV0445,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_43,Trinidad,Gujarati,Photo Essay,Neutral,206984,802163,0,10366,ACC0223,1
+ECOV0446,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_35,USA,Spanish,Live Broadcast,Positive,2126161,4577095,0,2915,ACC0186,1
+ECOV0447,2023-01-09,2023-01-09,Plenary Session,Digital,MediaOrg_18,India,Hindi,Photo Essay,Neutral,158437,701590,0,7281,ACC0194,1
+ECOV0448,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_38,New Zealand,Marathi,Live Broadcast,Neutral,4466398,12735310,46,18748,ACC0145,1
+ECOV0449,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_21,Netherlands,Spanish,Article,Neutral,881027,1945400,0,24290,ACC0348,1
+ECOV0450,2023-01-10,2023-01-10,Press Conference,International,MediaOrg_31,Fiji,Gujarati,Social Post,Neutral,5038008,5205477,0,16828,ACC0366,1
+ECOV0451,2023-01-10,2023-01-10,Exhibition,TV,MediaOrg_18,India,French,Article,Positive,1246803,4206405,28,23159,ACC0235,1
+ECOV0452,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_28,Mauritius,Telugu,Social Post,Positive,496431,1600852,0,2848,ACC0157,1
+ECOV0453,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_16,USA,Gujarati,Press Release Pickup,Positive,670506,805237,0,24360,ACC0147,1
+ECOV0454,2023-01-09,2023-01-09,Exhibition,Print,MediaOrg_9,South Africa,Marathi,Press Release Pickup,Positive,449579,1527636,0,22176,ACC0273,1
+ECOV0455,2023-01-08,2023-01-08,Side Event,Radio,MediaOrg_48,India,Spanish,Press Release Pickup,Positive,19575,70936,0,8002,ACC0379,1
+ECOV0456,2023-01-10,2023-01-10,Press Conference,Photographer,MediaOrg_11,Trinidad,Telugu,Article,Positive,643785,813054,0,4368,ACC0264,1
+ECOV0457,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_8,UAE,Telugu,Press Release Pickup,Positive,524577,2086620,0,3862,ACC0149,1
+ECOV0458,2023-01-09,2023-01-09,Exhibition,Digital,MediaOrg_41,Fiji,Spanish,Article,Positive,282611,1195641,0,21068,ACC0264,1
+ECOV0459,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_23,India,Marathi,Social Post,Neutral,652756,1334381,0,3511,ACC0003,1
+ECOV0460,2023-01-10,2023-01-10,Inaugural Ceremony,TV,MediaOrg_28,South Africa,Telugu,Live Broadcast,Positive,3422791,9761245,59,5036,ACC0211,1
+ECOV0461,2023-01-09,2023-01-09,Cultural Program,Print,MediaOrg_15,South Africa,Spanish,Social Post,Neutral,168190,344368,0,14035,ACC0094,1
+ECOV0462,2023-01-09,2023-01-09,Press Conference,Print,MediaOrg_11,UK,French,Photo Essay,Positive,464876,474329,0,23239,ACC0102,1
+ECOV0463,2023-01-08,2023-01-08,Press Conference,Digital,MediaOrg_48,UAE,English,Article,Positive,47211,157293,0,15705,ACC0341,1
+ECOV0464,2023-01-08,2023-01-08,Side Event,Radio,MediaOrg_44,Guyana,Gujarati,Social Post,Positive,517824,1879087,0,13103,ACC0257,1
+ECOV0465,2023-01-10,2023-01-10,Inaugural Ceremony,Radio,MediaOrg_51,India,Gujarati,Article,Positive,142801,314793,0,447,ACC0393,1
+ECOV0466,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_39,Guyana,English,Photo Essay,Neutral,716259,1920057,0,9247,ACC0249,1
+ECOV0467,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_12,Canada,Tamil,Live Broadcast,Positive,5230914,21052251,46,8105,ACC0342,1
+ECOV0468,2023-01-09,2023-01-09,Side Event,TV,MediaOrg_7,Guyana,Gujarati,Article,Neutral,4025301,18008918,39,20608,ACC0325,1
+ECOV0469,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_13,Germany,Gujarati,Photo Essay,Positive,143722,152606,0,6541,ACC0047,1
+ECOV0470,2023-01-08,2023-01-08,Exhibition,Radio,MediaOrg_41,Canada,Telugu,Social Post,Positive,432082,1076430,0,2010,ACC0262,1
+ECOV0471,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_18,UAE,Spanish,Article,Positive,324071,686850,0,1558,ACC0094,0
+ECOV0472,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_19,South Africa,Tamil,Press Release Pickup,Neutral,697511,943499,0,6056,ACC0130,1
+ECOV0473,2023-01-09,2023-01-09,Exhibition,Digital,MediaOrg_1,Trinidad,Gujarati,Social Post,Positive,324141,733203,0,11841,ACC0381,1
+ECOV0474,2023-01-10,2023-01-10,Exhibition,International,MediaOrg_18,Canada,Spanish,Live Broadcast,Positive,5122707,21029625,0,4275,ACC0323,1
+ECOV0475,2023-01-10,2023-01-10,Exhibition,Print,MediaOrg_53,Canada,Telugu,Photo Essay,Positive,48032,203619,0,2453,ACC0280,1
+ECOV0476,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_13,Mauritius,Gujarati,Live Broadcast,Positive,765585,1108116,0,13703,ACC0282,1
+ECOV0477,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_41,Guyana,Hindi,Photo Essay,Neutral,2963695,3666030,0,13729,ACC0269,1
+ECOV0478,2023-01-10,2023-01-10,Exhibition,Print,MediaOrg_9,Australia,English,Press Release Pickup,Positive,180044,218353,0,22734,ACC0098,1
+ECOV0479,2023-01-09,2023-01-09,Award Ceremony,Radio,MediaOrg_5,UK,Marathi,Press Release Pickup,Positive,722953,1694982,0,12787,ACC0206,1
+ECOV0480,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_14,Fiji,English,Press Release Pickup,Positive,1594060,4135060,47,23611,ACC0269,1
+ECOV0481,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_8,UK,Telugu,Live Broadcast,Neutral,2536078,7272153,20,1280,ACC0328,1
+ECOV0482,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_42,Canada,Telugu,Press Release Pickup,Neutral,2318571,3261410,43,11385,ACC0324,1
+ECOV0483,2023-01-09,2023-01-09,Award Ceremony,Digital,MediaOrg_17,Guyana,Gujarati,Photo Essay,Negative,92289,382461,0,9663,ACC0167,0
+ECOV0484,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_12,Australia,English,Press Release Pickup,Positive,377751,1246809,0,19112,ACC0055,1
+ECOV0485,2023-01-10,2023-01-10,Cultural Program,Photographer,MediaOrg_56,Trinidad,Telugu,Photo Essay,Negative,405536,718705,0,8807,ACC0105,1
+ECOV0486,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_47,Singapore,French,Article,Positive,168201,699310,0,3070,ACC0254,1
+ECOV0487,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_37,South Africa,Gujarati,Social Post,Neutral,6891731,7399414,12,5823,ACC0202,1
+ECOV0488,2023-01-10,2023-01-10,Press Conference,TV,MediaOrg_16,South Africa,Spanish,Live Broadcast,Positive,632623,2236369,10,23814,ACC0385,1
+ECOV0489,2023-01-08,2023-01-08,Inaugural Ceremony,International,MediaOrg_8,New Zealand,English,Live Broadcast,Positive,886595,1296757,0,2739,ACC0138,1
+ECOV0490,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_51,USA,French,Live Broadcast,Neutral,163220,278800,0,15742,ACC0389,1
+ECOV0491,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_16,India,Tamil,Press Release Pickup,Positive,2628532,3760809,54,1459,ACC0053,1
+ECOV0492,2023-01-09,2023-01-09,Press Conference,Print,MediaOrg_10,India,Telugu,Live Broadcast,Neutral,541391,970910,0,12628,ACC0076,1
+ECOV0493,2023-01-10,2023-01-10,Exhibition,Digital,MediaOrg_25,Trinidad,Hindi,Photo Essay,Negative,241856,385387,0,3608,ACC0115,1
+ECOV0494,2023-01-09,2023-01-09,Inaugural Ceremony,Digital,MediaOrg_24,Germany,Hindi,Live Broadcast,Positive,84995,264825,0,5834,ACC0220,1
+ECOV0495,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_58,Trinidad,Tamil,Press Release Pickup,Positive,1571403,6067923,0,11415,ACC0054,1
+ECOV0496,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_59,Guyana,Hindi,Live Broadcast,Negative,392042,1574440,0,4870,ACC0399,1
+ECOV0497,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_51,Netherlands,Marathi,Live Broadcast,Positive,159958,223313,0,14006,ACC0373,1
+ECOV0498,2023-01-08,2023-01-08,Plenary Session,Print,MediaOrg_50,Singapore,French,Social Post,Negative,343746,938331,0,15770,ACC0356,1
+ECOV0499,2023-01-10,2023-01-10,Exhibition,Photographer,MediaOrg_59,Canada,Spanish,Photo Essay,Positive,354663,1036569,0,17653,ACC0274,1
+ECOV0500,2023-01-10,2023-01-10,Inaugural Ceremony,International,MediaOrg_38,Guyana,Spanish,Press Release Pickup,Positive,6940437,20977939,0,22724,ACC0384,1
+ECOV0501,2023-01-10,2023-01-10,Plenary Session,Print,MediaOrg_55,India,French,Press Release Pickup,Positive,251617,668984,0,4377,ACC0057,0
+ECOV0502,2023-01-09,2023-01-09,Plenary Session,Digital,MediaOrg_54,New Zealand,Spanish,Article,Positive,151118,262579,0,7359,ACC0029,1
+ECOV0503,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_47,India,Spanish,Social Post,Neutral,734578,873627,0,3473,ACC0340,1
+ECOV0504,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_10,UAE,Gujarati,Live Broadcast,Neutral,627776,1166194,0,408,ACC0292,1
+ECOV0505,2023-01-09,2023-01-09,Exhibition,TV,MediaOrg_9,Guyana,Tamil,Photo Essay,Positive,6470789,15790852,23,14548,ACC0331,1
+ECOV0506,2023-01-08,2023-01-08,Exhibition,Digital,MediaOrg_3,Fiji,Gujarati,Press Release Pickup,Positive,121671,189955,0,12988,ACC0217,1
+ECOV0507,2023-01-09,2023-01-09,Award Ceremony,International,MediaOrg_33,Australia,Telugu,Photo Essay,Neutral,6017712,25635909,0,8907,ACC0048,1
+ECOV0508,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_4,Canada,Spanish,Article,Positive,6283866,24373654,37,19827,ACC0040,1
+ECOV0509,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_26,New Zealand,Spanish,Article,Positive,505607,602355,0,12172,ACC0332,1
+ECOV0510,2023-01-08,2023-01-08,Cultural Program,Digital,MediaOrg_39,Netherlands,French,Live Broadcast,Positive,118666,218150,0,5333,ACC0278,1
+ECOV0511,2023-01-08,2023-01-08,Cultural Program,TV,MediaOrg_13,Mauritius,Telugu,Live Broadcast,Positive,5058928,9314361,7,18681,ACC0290,0
+ECOV0512,2023-01-10,2023-01-10,Inaugural Ceremony,Radio,MediaOrg_20,India,French,Social Post,Positive,52899,230406,0,16391,ACC0100,1
+ECOV0513,2023-01-09,2023-01-09,Exhibition,Photographer,MediaOrg_44,USA,French,Photo Essay,Negative,378122,1564589,0,16501,ACC0052,1
+ECOV0514,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_38,New Zealand,English,Social Post,Neutral,620698,970945,0,22360,ACC0238,1
+ECOV0515,2023-01-10,2023-01-10,Plenary Session,Print,MediaOrg_52,Trinidad,Gujarati,Article,Positive,758362,3395154,0,16437,ACC0265,1
+ECOV0516,2023-01-10,2023-01-10,Cultural Program,Photographer,MediaOrg_29,Netherlands,Gujarati,Social Post,Negative,553706,1117348,0,20429,ACC0221,0
+ECOV0517,2023-01-10,2023-01-10,Award Ceremony,Photographer,MediaOrg_39,USA,Gujarati,Press Release Pickup,Positive,411463,1315555,0,16302,ACC0050,1
+ECOV0518,2023-01-08,2023-01-08,Award Ceremony,TV,MediaOrg_56,Netherlands,Hindi,Photo Essay,Neutral,6478335,8612291,22,5561,ACC0152,1
+ECOV0519,2023-01-08,2023-01-08,Inaugural Ceremony,Digital,MediaOrg_5,UK,Marathi,Social Post,Positive,609516,2713261,0,8389,ACC0391,1
+ECOV0520,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_32,India,French,Social Post,Negative,152269,365946,0,20305,ACC0349,1
+ECOV0521,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_24,USA,Spanish,Press Release Pickup,Neutral,542373,1396785,0,22365,ACC0022,1
+ECOV0522,2023-01-10,2023-01-10,Exhibition,Print,MediaOrg_53,Mauritius,English,Article,Neutral,782039,3116980,0,9524,ACC0193,1
+ECOV0523,2023-01-10,2023-01-10,Side Event,Radio,MediaOrg_30,Trinidad,Hindi,Social Post,Positive,81523,214452,0,21052,ACC0274,1
+ECOV0524,2023-01-09,2023-01-09,Inaugural Ceremony,Print,MediaOrg_59,Germany,Spanish,Photo Essay,Positive,94991,161308,0,10771,ACC0034,1
+ECOV0525,2023-01-09,2023-01-09,Exhibition,International,MediaOrg_31,USA,Tamil,Photo Essay,Positive,4129338,4682620,0,5103,ACC0241,1
+ECOV0526,2023-01-10,2023-01-10,Award Ceremony,TV,MediaOrg_50,Singapore,English,Social Post,Positive,2735920,10296517,32,6993,ACC0028,1
+ECOV0527,2023-01-08,2023-01-08,Exhibition,Photographer,MediaOrg_12,USA,Gujarati,Live Broadcast,Positive,448464,878392,0,2677,ACC0153,1
+ECOV0528,2023-01-10,2023-01-10,Exhibition,Radio,MediaOrg_58,Australia,Gujarati,Live Broadcast,Positive,445110,589122,0,14042,ACC0176,1
+ECOV0529,2023-01-09,2023-01-09,Press Conference,TV,MediaOrg_31,South Africa,Gujarati,Photo Essay,Positive,1716022,3846331,46,18688,ACC0200,1
+ECOV0530,2023-01-08,2023-01-08,Plenary Session,International,MediaOrg_5,Guyana,Gujarati,Social Post,Neutral,6618887,22002638,0,24063,ACC0381,1
+ECOV0531,2023-01-10,2023-01-10,Press Conference,Photographer,MediaOrg_60,UK,Marathi,Social Post,Positive,336890,470845,0,22083,ACC0209,1
+ECOV0532,2023-01-10,2023-01-10,Side Event,Photographer,MediaOrg_55,UK,Marathi,Press Release Pickup,Negative,8855,11875,0,7163,ACC0382,1
+ECOV0533,2023-01-09,2023-01-09,Award Ceremony,Photographer,MediaOrg_25,Canada,French,Article,Neutral,577612,2502977,0,22270,ACC0296,0
+ECOV0534,2023-01-09,2023-01-09,Cultural Program,Digital,MediaOrg_33,New Zealand,Hindi,Photo Essay,Positive,21977,71890,0,14942,ACC0212,1
+ECOV0535,2023-01-09,2023-01-09,Side Event,Digital,MediaOrg_22,USA,Gujarati,Photo Essay,Positive,573817,1434165,0,5796,ACC0284,1
+ECOV0536,2023-01-08,2023-01-08,Side Event,International,MediaOrg_43,Guyana,Spanish,Social Post,Positive,3706394,12814205,0,3251,ACC0045,1
+ECOV0537,2023-01-08,2023-01-08,Press Conference,Print,MediaOrg_7,South Africa,Hindi,Photo Essay,Positive,686180,1895068,0,1069,ACC0342,1
+ECOV0538,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_25,USA,Telugu,Photo Essay,Neutral,1919647,8306178,24,15202,ACC0212,1
+ECOV0539,2023-01-10,2023-01-10,Cultural Program,Photographer,MediaOrg_51,Canada,Tamil,Social Post,Positive,782155,3190116,0,8667,ACC0158,1
+ECOV0540,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_3,India,English,Article,Positive,258288,972915,0,17005,ACC0380,1
+ECOV0541,2023-01-09,2023-01-09,Press Conference,Digital,MediaOrg_16,Mauritius,Spanish,Article,Negative,183688,579891,0,12888,ACC0027,1
+ECOV0542,2023-01-10,2023-01-10,Press Conference,Radio,MediaOrg_47,UK,Spanish,Social Post,Negative,140130,393831,0,14332,ACC0119,1
+ECOV0543,2023-01-10,2023-01-10,Award Ceremony,TV,MediaOrg_51,Singapore,Tamil,Press Release Pickup,Positive,4280014,6662638,22,6676,ACC0048,1
+ECOV0544,2023-01-08,2023-01-08,Award Ceremony,Radio,MediaOrg_10,India,Hindi,Press Release Pickup,Positive,17098,39982,0,24324,ACC0376,1
+ECOV0545,2023-01-09,2023-01-09,Plenary Session,Photographer,MediaOrg_16,Trinidad,Telugu,Social Post,Neutral,667177,1119790,0,8036,ACC0372,1
+ECOV0546,2023-01-09,2023-01-09,Inaugural Ceremony,Digital,MediaOrg_60,UK,English,Press Release Pickup,Positive,696281,2808997,0,3635,ACC0236,1
+ECOV0547,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_58,UK,Hindi,Live Broadcast,Positive,117278,320152,0,11842,ACC0107,1
+ECOV0548,2023-01-08,2023-01-08,Press Conference,Radio,MediaOrg_41,USA,Telugu,Photo Essay,Positive,28023,64828,0,10275,ACC0325,1
+ECOV0549,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_43,Fiji,English,Live Broadcast,Positive,1558325,6881104,24,15856,ACC0315,1
+ECOV0550,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_60,USA,Telugu,Press Release Pickup,Positive,171082,188779,0,754,ACC0266,1
+ECOV0551,2023-01-08,2023-01-08,Plenary Session,TV,MediaOrg_2,UAE,Gujarati,Article,Positive,7321868,9460217,46,4147,ACC0138,1
+ECOV0552,2023-01-09,2023-01-09,Award Ceremony,TV,MediaOrg_42,Australia,Marathi,Photo Essay,Positive,821498,2075282,27,6326,ACC0129,1
+ECOV0553,2023-01-08,2023-01-08,Press Conference,Photographer,MediaOrg_7,Fiji,Tamil,Article,Positive,757244,2861888,0,23660,ACC0250,1
+ECOV0554,2023-01-09,2023-01-09,Side Event,Radio,MediaOrg_21,Fiji,Hindi,Press Release Pickup,Neutral,630297,1475311,0,6544,ACC0291,1
+ECOV0555,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_33,Australia,Spanish,Social Post,Positive,72388,225386,0,21138,ACC0272,1
+ECOV0556,2023-01-09,2023-01-09,Cultural Program,Print,MediaOrg_28,Netherlands,Gujarati,Social Post,Positive,125219,232733,0,7051,ACC0337,1
+ECOV0557,2023-01-09,2023-01-09,Inaugural Ceremony,TV,MediaOrg_21,Guyana,English,Social Post,Positive,6589042,11518986,38,10536,ACC0120,1
+ECOV0558,2023-01-08,2023-01-08,Award Ceremony,Radio,MediaOrg_14,USA,Tamil,Press Release Pickup,Positive,302391,1303894,0,21998,ACC0039,1
+ECOV0559,2023-01-10,2023-01-10,Cultural Program,Radio,MediaOrg_53,UAE,Telugu,Article,Neutral,720267,845455,0,16185,ACC0256,0
+ECOV0560,2023-01-09,2023-01-09,Plenary Session,Radio,MediaOrg_39,UAE,Spanish,Article,Positive,130052,392425,0,9340,ACC0010,1
+ECOV0561,2023-01-10,2023-01-10,Side Event,Print,MediaOrg_26,India,English,Social Post,Positive,489202,1593191,0,2275,ACC0241,1
+ECOV0562,2023-01-09,2023-01-09,Side Event,Photographer,MediaOrg_23,Singapore,Hindi,Press Release Pickup,Positive,320619,1189864,0,16181,ACC0314,0
+ECOV0563,2023-01-09,2023-01-09,Press Conference,Digital,MediaOrg_55,Trinidad,Hindi,Social Post,Negative,735288,3148476,0,3366,ACC0015,1
+ECOV0564,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_56,Guyana,Spanish,Article,Positive,150473,240105,0,6263,ACC0371,1
+ECOV0565,2023-01-09,2023-01-09,Side Event,International,MediaOrg_4,Australia,English,Live Broadcast,Negative,91451,106815,0,9970,ACC0039,1
+ECOV0566,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_18,Guyana,Gujarati,Article,Neutral,647515,1969796,0,3928,ACC0065,1
+ECOV0567,2023-01-08,2023-01-08,Press Conference,International,MediaOrg_41,South Africa,Hindi,Press Release Pickup,Neutral,7497392,21341785,0,18936,ACC0245,1
+ECOV0568,2023-01-09,2023-01-09,Press Conference,Digital,MediaOrg_15,USA,Tamil,Social Post,Neutral,342548,1195435,0,11567,ACC0286,1
+ECOV0569,2023-01-08,2023-01-08,Plenary Session,Photographer,MediaOrg_45,USA,Hindi,Photo Essay,Neutral,683569,827757,0,430,ACC0344,1
+ECOV0570,2023-01-09,2023-01-09,Cultural Program,Radio,MediaOrg_14,New Zealand,French,Social Post,Positive,202045,703074,0,21472,ACC0079,1
+ECOV0571,2023-01-10,2023-01-10,Cultural Program,Print,MediaOrg_25,South Africa,Telugu,Photo Essay,Positive,141378,234381,0,9104,ACC0217,1
+ECOV0572,2023-01-10,2023-01-10,Plenary Session,Digital,MediaOrg_30,Germany,Hindi,Live Broadcast,Positive,610282,1124120,0,15101,ACC0096,1
+ECOV0573,2023-01-08,2023-01-08,Cultural Program,Radio,MediaOrg_17,USA,Hindi,Social Post,Positive,699037,1754693,0,4935,ACC0204,1
+ECOV0574,2023-01-09,2023-01-09,Cultural Program,International,MediaOrg_24,USA,English,Photo Essay,Positive,2849609,10150323,0,13847,ACC0100,1
+ECOV0575,2023-01-08,2023-01-08,Award Ceremony,Radio,MediaOrg_39,South Africa,Spanish,Live Broadcast,Positive,190225,643733,0,21179,ACC0128,1
+ECOV0576,2023-01-08,2023-01-08,Award Ceremony,Print,MediaOrg_18,Canada,Hindi,Press Release Pickup,Neutral,60718,82188,0,7420,ACC0318,1
+ECOV0577,2023-01-10,2023-01-10,Plenary Session,Radio,MediaOrg_47,New Zealand,Tamil,Photo Essay,Positive,415945,715412,0,6670,ACC0178,1
+ECOV0578,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_7,UK,Marathi,Social Post,Positive,630279,2511015,0,22542,ACC0123,1
+ECOV0579,2023-01-09,2023-01-09,Cultural Program,Photographer,MediaOrg_58,South Africa,Gujarati,Live Broadcast,Positive,77828,259253,0,14022,ACC0172,0
+ECOV0580,2023-01-08,2023-01-08,Side Event,Digital,MediaOrg_55,India,French,Photo Essay,Positive,85716,260667,0,16000,ACC0127,1
+ECOV0581,2023-01-08,2023-01-08,Cultural Program,Print,MediaOrg_54,Canada,Gujarati,Article,Positive,23235,86280,0,3276,ACC0156,1
+ECOV0582,2023-01-10,2023-01-10,Cultural Program,Digital,MediaOrg_35,Australia,Marathi,Social Post,Positive,479602,1091100,0,444,ACC0181,1
+ECOV0583,2023-01-10,2023-01-10,Side Event,Digital,MediaOrg_56,Germany,Marathi,Live Broadcast,Neutral,547985,1065710,0,17016,ACC0373,1
+ECOV0584,2023-01-08,2023-01-08,Exhibition,TV,MediaOrg_10,UAE,Marathi,Live Broadcast,Neutral,3492004,6478670,49,22800,ACC0221,1
+ECOV0585,2023-01-08,2023-01-08,Press Conference,Photographer,MediaOrg_41,USA,Tamil,Press Release Pickup,Positive,98610,408962,0,14721,ACC0270,1
+ECOV0586,2023-01-09,2023-01-09,Press Conference,Photographer,MediaOrg_38,Singapore,Tamil,Social Post,Neutral,370790,618108,0,18989,ACC0267,1
+ECOV0587,2023-01-09,2023-01-09,Press Conference,International,MediaOrg_37,Netherlands,French,Social Post,Positive,1081473,1498561,0,273,ACC0256,1
+ECOV0588,2023-01-10,2023-01-10,Award Ceremony,TV,MediaOrg_19,Fiji,Gujarati,Social Post,Positive,3961754,10712134,6,9657,ACC0008,1
+ECOV0589,2023-01-08,2023-01-08,Inaugural Ceremony,TV,MediaOrg_4,South Africa,Tamil,Live Broadcast,Neutral,2424121,6075162,44,21,ACC0026,1
+ECOV0590,2023-01-08,2023-01-08,Award Ceremony,Digital,MediaOrg_43,Netherlands,Gujarati,Live Broadcast,Neutral,302025,1055936,0,4674,ACC0376,1
+ECOV0591,2023-01-09,2023-01-09,Plenary Session,International,MediaOrg_3,South Africa,French,Article,Positive,7752921,29778828,0,20874,ACC0198,1
+ECOV0592,2023-01-09,2023-01-09,Award Ceremony,Print,MediaOrg_20,UK,Spanish,Social Post,Negative,278951,1064290,0,4560,ACC0350,1
+ECOV0593,2023-01-08,2023-01-08,Plenary Session,Digital,MediaOrg_20,Australia,Hindi,Social Post,Positive,147282,439390,0,20588,ACC0237,1
+ECOV0594,2023-01-08,2023-01-08,Award Ceremony,Radio,MediaOrg_29,Guyana,French,Press Release Pickup,Positive,463115,1978464,0,23350,ACC0184,1
+ECOV0595,2023-01-09,2023-01-09,Press Conference,Radio,MediaOrg_30,India,English,Photo Essay,Positive,494215,647175,0,4606,ACC0315,1
+ECOV0596,2023-01-09,2023-01-09,Plenary Session,TV,MediaOrg_40,Mauritius,Tamil,Live Broadcast,Positive,4918097,17919937,27,4126,ACC0207,1
+ECOV0597,2023-01-08,2023-01-08,Inaugural Ceremony,Radio,MediaOrg_6,India,Tamil,Live Broadcast,Positive,548171,1187991,0,3191,ACC0149,1
+ECOV0598,2023-01-09,2023-01-09,Inaugural Ceremony,Photographer,MediaOrg_48,Fiji,English,Article,Neutral,352401,989162,0,18417,ACC0380,1
+ECOV0599,2023-01-08,2023-01-08,Side Event,TV,MediaOrg_10,Australia,Tamil,Live Broadcast,Positive,7558243,28869910,41,22537,ACC0103,1
+ECOV0600,2023-01-08,2023-01-08,Inaugural Ceremony,Print,MediaOrg_34,USA,Telugu,Article,Positive,165455,225453,0,807,ACC0259,1

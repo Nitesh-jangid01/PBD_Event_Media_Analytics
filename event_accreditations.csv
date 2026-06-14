@@ -1,0 +1,401 @@
+accreditation_id,journalist_id,journalist_name,journalist_type,media_organization,country_of_media,language,accreditation_date,entry_pass_issued,day_assigned,zone_access,broadcast_setup_requested,arrival_time,accreditation_status,vip_access
+ACC0001,JOUR0001,Journalist_1,Photographer,MediaOrg_8,India,Tamil,2023-01-06,Yes,2023-01-10,Main Plenary Hall,No,11:00,Approved,Yes
+ACC0002,JOUR0002,Journalist_2,Print,MediaOrg_14,Canada,English,2023-01-06,Yes,2023-01-10,VIP Lounge,No,10:30,Approved,Yes
+ACC0003,JOUR0003,Journalist_3,TV,MediaOrg_45,Singapore,French,2023-01-07,Yes,2023-01-09,Main Plenary Hall,Yes,07:45,Approved,No
+ACC0004,JOUR0004,Journalist_4,International,MediaOrg_17,Netherlands,English,2023-01-08,Yes,2023-01-09,Main Plenary Hall,Yes,11:30,Approved,No
+ACC0005,JOUR0005,Journalist_5,Digital,MediaOrg_37,Canada,Hindi,2023-01-05,Yes,2023-01-09,Main Plenary Hall,No,07:45,Approved,No
+ACC0006,JOUR0006,Journalist_6,Digital,MediaOrg_11,UAE,French,2023-01-06,Yes,2023-01-10,Press Conference Room,No,11:15,Approved,No
+ACC0007,JOUR0007,Journalist_7,Radio,MediaOrg_25,Australia,Telugu,2023-01-07,Yes,2023-01-08,Media Centre,No,09:45,Approved,No
+ACC0008,JOUR0008,Journalist_8,International,MediaOrg_57,Guyana,French,2023-01-06,Yes,2023-01-09,Press Conference Room,Yes,10:15,Approved,No
+ACC0009,JOUR0009,Journalist_9,International,MediaOrg_35,Australia,Spanish,2023-01-08,Yes,2023-01-08,VIP Lounge,Yes,10:00,Approved,No
+ACC0010,JOUR0010,Journalist_10,TV,MediaOrg_41,UK,Spanish,2023-01-05,Yes,2023-01-10,Exhibition Hall,Yes,11:30,Rejected,No
+ACC0011,JOUR0011,Journalist_11,Print,MediaOrg_44,Guyana,Hindi,2023-01-07,Yes,2023-01-09,Main Plenary Hall,Yes,08:45,Approved,No
+ACC0012,JOUR0012,Journalist_12,Photographer,MediaOrg_17,Mauritius,Gujarati,2023-01-05,Yes,2023-01-09,Press Conference Room,No,08:15,Approved,Yes
+ACC0013,JOUR0013,Journalist_13,International,MediaOrg_59,India,French,2023-01-08,Yes,2023-01-09,Cultural Pavilion,Yes,08:00,Approved,No
+ACC0014,JOUR0014,Journalist_14,Print,MediaOrg_6,Guyana,Marathi,2023-01-05,No,2023-01-10,Media Centre,Yes,10:15,Approved,No
+ACC0015,JOUR0015,Journalist_15,Radio,MediaOrg_14,Germany,Telugu,2023-01-07,Yes,2023-01-10,Press Conference Room,No,11:45,Approved,No
+ACC0016,JOUR0016,Journalist_16,Digital,MediaOrg_2,Fiji,Telugu,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,07:00,Pending,Yes
+ACC0017,JOUR0017,Journalist_17,TV,MediaOrg_18,Trinidad,Marathi,2023-01-06,Yes,2023-01-10,VIP Lounge,Yes,11:45,Approved,No
+ACC0018,JOUR0018,Journalist_18,Radio,MediaOrg_13,USA,Hindi,2023-01-08,Yes,2023-01-09,Exhibition Hall,No,07:00,Approved,No
+ACC0019,JOUR0019,Journalist_19,Print,MediaOrg_16,Canada,Telugu,2023-01-08,Yes,2023-01-08,Cultural Pavilion,No,07:45,Approved,No
+ACC0020,JOUR0020,Journalist_20,Print,MediaOrg_4,Trinidad,English,2023-01-05,No,2023-01-08,Media Centre,No,10:15,Pending,No
+ACC0021,JOUR0021,Journalist_21,TV,MediaOrg_25,India,Spanish,2023-01-07,No,2023-01-09,Cultural Pavilion,Yes,10:45,Approved,No
+ACC0022,JOUR0022,Journalist_22,Print,MediaOrg_38,Guyana,English,2023-01-07,Yes,2023-01-10,Exhibition Hall,No,11:15,Approved,No
+ACC0023,JOUR0023,Journalist_23,TV,MediaOrg_5,Fiji,Hindi,2023-01-06,Yes,2023-01-10,Media Centre,Yes,11:00,Approved,No
+ACC0024,JOUR0024,Journalist_24,International,MediaOrg_37,Mauritius,French,2023-01-07,Yes,2023-01-10,Cultural Pavilion,Yes,08:30,Approved,No
+ACC0025,JOUR0025,Journalist_25,Digital,MediaOrg_30,UAE,Hindi,2023-01-05,Yes,2023-01-10,Main Plenary Hall,Yes,08:30,Approved,No
+ACC0026,JOUR0026,Journalist_26,Print,MediaOrg_57,Canada,French,2023-01-07,Yes,2023-01-10,Press Conference Room,No,11:00,Approved,No
+ACC0027,JOUR0027,Journalist_27,Photographer,MediaOrg_7,Germany,Gujarati,2023-01-07,Yes,2023-01-08,Press Conference Room,No,09:30,Approved,No
+ACC0028,JOUR0028,Journalist_28,TV,MediaOrg_44,Trinidad,Tamil,2023-01-08,Yes,2023-01-08,Main Plenary Hall,Yes,10:30,Approved,No
+ACC0029,JOUR0029,Journalist_29,TV,MediaOrg_41,Australia,Gujarati,2023-01-08,Yes,2023-01-09,VIP Lounge,Yes,07:00,Approved,No
+ACC0030,JOUR0030,Journalist_30,TV,MediaOrg_35,India,French,2023-01-06,Yes,2023-01-08,Cultural Pavilion,Yes,09:00,Pending,No
+ACC0031,JOUR0031,Journalist_31,TV,MediaOrg_43,USA,French,2023-01-08,No,2023-01-10,Media Centre,Yes,08:15,Rejected,No
+ACC0032,JOUR0032,Journalist_32,Radio,MediaOrg_2,UK,French,2023-01-08,Yes,2023-01-10,Media Centre,Yes,07:45,Pending,No
+ACC0033,JOUR0033,Journalist_33,TV,MediaOrg_13,New Zealand,Marathi,2023-01-07,Yes,2023-01-08,Media Centre,Yes,07:15,Approved,No
+ACC0034,JOUR0034,Journalist_34,Print,MediaOrg_50,Australia,French,2023-01-08,Yes,2023-01-10,Cultural Pavilion,No,07:30,Approved,No
+ACC0035,JOUR0035,Journalist_35,Digital,MediaOrg_3,USA,Spanish,2023-01-07,Yes,2023-01-09,Exhibition Hall,No,11:00,Approved,No
+ACC0036,JOUR0036,Journalist_36,Digital,MediaOrg_3,Guyana,Spanish,2023-01-05,Yes,2023-01-10,Press Conference Room,No,08:30,Approved,No
+ACC0037,JOUR0037,Journalist_37,Digital,MediaOrg_40,UAE,Hindi,2023-01-07,Yes,2023-01-10,Exhibition Hall,No,09:15,Approved,No
+ACC0038,JOUR0038,Journalist_38,Radio,MediaOrg_44,Guyana,Gujarati,2023-01-07,Yes,2023-01-08,Cultural Pavilion,Yes,10:30,Approved,No
+ACC0039,JOUR0039,Journalist_39,TV,MediaOrg_33,South Africa,Gujarati,2023-01-05,Yes,2023-01-10,Press Conference Room,Yes,11:30,Approved,No
+ACC0040,JOUR0040,Journalist_40,TV,MediaOrg_44,Australia,Telugu,2023-01-06,Yes,2023-01-08,Media Centre,Yes,10:00,Approved,No
+ACC0041,JOUR0041,Journalist_41,International,MediaOrg_13,Guyana,Spanish,2023-01-08,Yes,2023-01-08,Press Conference Room,Yes,07:00,Approved,No
+ACC0042,JOUR0042,Journalist_42,Photographer,MediaOrg_34,South Africa,English,2023-01-06,No,2023-01-08,Exhibition Hall,Yes,10:30,Rejected,No
+ACC0043,JOUR0043,Journalist_43,International,MediaOrg_53,Guyana,Spanish,2023-01-08,Yes,2023-01-10,Exhibition Hall,Yes,10:30,Approved,No
+ACC0044,JOUR0044,Journalist_44,Digital,MediaOrg_50,Netherlands,Marathi,2023-01-06,Yes,2023-01-08,Press Conference Room,Yes,09:30,Approved,No
+ACC0045,JOUR0045,Journalist_45,TV,MediaOrg_10,Canada,Spanish,2023-01-06,Yes,2023-01-08,Exhibition Hall,Yes,10:30,Approved,No
+ACC0046,JOUR0046,Journalist_46,TV,MediaOrg_54,Singapore,Spanish,2023-01-05,Yes,2023-01-10,Exhibition Hall,Yes,10:00,Pending,No
+ACC0047,JOUR0047,Journalist_47,Radio,MediaOrg_55,Germany,Spanish,2023-01-06,Yes,2023-01-09,Exhibition Hall,No,10:30,Approved,No
+ACC0048,JOUR0048,Journalist_48,Photographer,MediaOrg_11,New Zealand,Marathi,2023-01-06,No,2023-01-10,Main Plenary Hall,No,11:00,Approved,No
+ACC0049,JOUR0049,Journalist_49,Radio,MediaOrg_12,India,Tamil,2023-01-08,Yes,2023-01-09,Cultural Pavilion,No,10:30,Approved,No
+ACC0050,JOUR0050,Journalist_50,Digital,MediaOrg_54,USA,Marathi,2023-01-05,Yes,2023-01-08,Cultural Pavilion,Yes,07:00,Approved,No
+ACC0051,JOUR0051,Journalist_51,TV,MediaOrg_54,India,Gujarati,2023-01-06,Yes,2023-01-10,Main Plenary Hall,Yes,11:15,Approved,No
+ACC0052,JOUR0052,Journalist_52,Digital,MediaOrg_11,Fiji,Hindi,2023-01-06,No,2023-01-08,VIP Lounge,Yes,09:45,Approved,No
+ACC0053,JOUR0053,Journalist_53,Print,MediaOrg_38,Guyana,Telugu,2023-01-05,Yes,2023-01-09,Press Conference Room,No,07:00,Approved,No
+ACC0054,JOUR0054,Journalist_54,Digital,MediaOrg_5,Mauritius,French,2023-01-05,Yes,2023-01-09,Main Plenary Hall,No,09:45,Approved,No
+ACC0055,JOUR0055,Journalist_55,Photographer,MediaOrg_34,Trinidad,Tamil,2023-01-08,Yes,2023-01-10,VIP Lounge,Yes,08:00,Approved,No
+ACC0056,JOUR0056,Journalist_56,Radio,MediaOrg_37,Fiji,Spanish,2023-01-07,Yes,2023-01-09,Media Centre,No,09:30,Approved,No
+ACC0057,JOUR0057,Journalist_57,Photographer,MediaOrg_57,Australia,English,2023-01-06,Yes,2023-01-10,Exhibition Hall,No,08:45,Approved,No
+ACC0058,JOUR0058,Journalist_58,Print,MediaOrg_6,Australia,Telugu,2023-01-08,Yes,2023-01-09,Press Conference Room,No,10:30,Approved,No
+ACC0059,JOUR0059,Journalist_59,Digital,MediaOrg_23,Guyana,Marathi,2023-01-07,Yes,2023-01-08,Main Plenary Hall,No,09:00,Approved,No
+ACC0060,JOUR0060,Journalist_60,Photographer,MediaOrg_12,Canada,Telugu,2023-01-08,Yes,2023-01-10,VIP Lounge,No,07:15,Approved,No
+ACC0061,JOUR0061,Journalist_61,Digital,MediaOrg_1,Guyana,Gujarati,2023-01-07,Yes,2023-01-08,VIP Lounge,Yes,08:45,Approved,Yes
+ACC0062,JOUR0062,Journalist_62,Digital,MediaOrg_31,South Africa,Marathi,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,10:00,Approved,No
+ACC0063,JOUR0063,Journalist_63,Print,MediaOrg_37,Trinidad,English,2023-01-06,Yes,2023-01-10,Cultural Pavilion,Yes,08:00,Approved,No
+ACC0064,JOUR0064,Journalist_64,International,MediaOrg_51,Fiji,Telugu,2023-01-08,Yes,2023-01-09,Cultural Pavilion,Yes,11:45,Approved,No
+ACC0065,JOUR0065,Journalist_65,International,MediaOrg_48,USA,Telugu,2023-01-06,Yes,2023-01-08,Media Centre,Yes,08:15,Approved,Yes
+ACC0066,JOUR0066,Journalist_66,Radio,MediaOrg_29,Guyana,Marathi,2023-01-07,Yes,2023-01-09,Press Conference Room,Yes,10:00,Approved,No
+ACC0067,JOUR0067,Journalist_67,Photographer,MediaOrg_38,Trinidad,Telugu,2023-01-08,Yes,2023-01-08,Press Conference Room,Yes,09:15,Approved,Yes
+ACC0068,JOUR0068,Journalist_68,Digital,MediaOrg_39,Guyana,Tamil,2023-01-08,Yes,2023-01-10,Cultural Pavilion,No,09:45,Approved,No
+ACC0069,JOUR0069,Journalist_69,Radio,MediaOrg_48,UAE,Tamil,2023-01-05,Yes,2023-01-10,VIP Lounge,No,07:30,Approved,No
+ACC0070,JOUR0070,Journalist_70,TV,MediaOrg_31,Mauritius,Marathi,2023-01-07,Yes,2023-01-10,Exhibition Hall,Yes,10:00,Approved,No
+ACC0071,JOUR0071,Journalist_71,Digital,MediaOrg_43,USA,Gujarati,2023-01-07,Yes,2023-01-09,Cultural Pavilion,No,10:00,Approved,No
+ACC0072,JOUR0072,Journalist_72,Digital,MediaOrg_8,Netherlands,Spanish,2023-01-05,Yes,2023-01-10,Exhibition Hall,No,08:30,Approved,No
+ACC0073,JOUR0073,Journalist_73,Radio,MediaOrg_49,India,Telugu,2023-01-07,Yes,2023-01-09,Exhibition Hall,No,10:00,Approved,No
+ACC0074,JOUR0074,Journalist_74,TV,MediaOrg_46,UK,Tamil,2023-01-05,Yes,2023-01-08,Media Centre,Yes,07:45,Pending,No
+ACC0075,JOUR0075,Journalist_75,TV,MediaOrg_32,Germany,Tamil,2023-01-07,Yes,2023-01-09,Exhibition Hall,Yes,08:45,Approved,No
+ACC0076,JOUR0076,Journalist_76,International,MediaOrg_33,Guyana,Gujarati,2023-01-05,Yes,2023-01-09,Cultural Pavilion,Yes,11:30,Approved,No
+ACC0077,JOUR0077,Journalist_77,Digital,MediaOrg_54,Fiji,Marathi,2023-01-06,Yes,2023-01-09,Cultural Pavilion,No,11:45,Approved,No
+ACC0078,JOUR0078,Journalist_78,TV,MediaOrg_45,Canada,Spanish,2023-01-06,Yes,2023-01-09,Main Plenary Hall,Yes,09:45,Approved,No
+ACC0079,JOUR0079,Journalist_79,Radio,MediaOrg_43,Netherlands,Gujarati,2023-01-08,No,2023-01-08,VIP Lounge,No,09:00,Pending,No
+ACC0080,JOUR0080,Journalist_80,International,MediaOrg_59,South Africa,English,2023-01-06,Yes,2023-01-10,Media Centre,Yes,07:45,Approved,No
+ACC0081,JOUR0081,Journalist_81,International,MediaOrg_45,Singapore,Hindi,2023-01-07,Yes,2023-01-10,Exhibition Hall,Yes,09:45,Pending,Yes
+ACC0082,JOUR0082,Journalist_82,Print,MediaOrg_16,Trinidad,Tamil,2023-01-06,Yes,2023-01-09,Main Plenary Hall,No,07:45,Approved,No
+ACC0083,JOUR0083,Journalist_83,Print,MediaOrg_3,UAE,English,2023-01-07,Yes,2023-01-09,Media Centre,Yes,10:15,Approved,Yes
+ACC0084,JOUR0084,Journalist_84,Radio,MediaOrg_40,Trinidad,Telugu,2023-01-08,No,2023-01-08,Media Centre,No,09:45,Approved,Yes
+ACC0085,JOUR0085,Journalist_85,Radio,MediaOrg_58,Australia,Gujarati,2023-01-05,Yes,2023-01-09,VIP Lounge,Yes,10:30,Approved,No
+ACC0086,JOUR0086,Journalist_86,Radio,MediaOrg_55,South Africa,Hindi,2023-01-06,Yes,2023-01-09,VIP Lounge,Yes,09:00,Rejected,No
+ACC0087,JOUR0087,Journalist_87,Digital,MediaOrg_1,Fiji,English,2023-01-08,Yes,2023-01-09,Media Centre,No,09:15,Approved,No
+ACC0088,JOUR0088,Journalist_88,Photographer,MediaOrg_49,Guyana,Gujarati,2023-01-05,No,2023-01-10,Main Plenary Hall,No,10:00,Approved,No
+ACC0089,JOUR0089,Journalist_89,Print,MediaOrg_59,Australia,French,2023-01-08,Yes,2023-01-08,VIP Lounge,No,09:30,Approved,No
+ACC0090,JOUR0090,Journalist_90,Radio,MediaOrg_52,Australia,French,2023-01-05,Yes,2023-01-08,Media Centre,No,08:45,Rejected,No
+ACC0091,JOUR0091,Journalist_91,Digital,MediaOrg_6,Netherlands,Spanish,2023-01-05,Yes,2023-01-08,Exhibition Hall,No,09:45,Approved,No
+ACC0092,JOUR0092,Journalist_92,Print,MediaOrg_44,Canada,Marathi,2023-01-05,Yes,2023-01-10,Cultural Pavilion,No,08:00,Approved,No
+ACC0093,JOUR0093,Journalist_93,Photographer,MediaOrg_20,Trinidad,Spanish,2023-01-05,Yes,2023-01-08,Cultural Pavilion,No,07:00,Approved,No
+ACC0094,JOUR0094,Journalist_94,Radio,MediaOrg_30,UAE,Spanish,2023-01-06,Yes,2023-01-10,Main Plenary Hall,No,11:45,Pending,No
+ACC0095,JOUR0095,Journalist_95,Photographer,MediaOrg_24,Canada,Marathi,2023-01-08,No,2023-01-09,Main Plenary Hall,No,09:30,Approved,No
+ACC0096,JOUR0096,Journalist_96,Print,MediaOrg_55,New Zealand,Marathi,2023-01-05,Yes,2023-01-10,Press Conference Room,No,07:00,Approved,No
+ACC0097,JOUR0097,Journalist_97,TV,MediaOrg_51,Fiji,Telugu,2023-01-05,Yes,2023-01-10,Media Centre,Yes,11:15,Approved,No
+ACC0098,JOUR0098,Journalist_98,TV,MediaOrg_51,Germany,English,2023-01-07,Yes,2023-01-08,Media Centre,Yes,11:30,Approved,Yes
+ACC0099,JOUR0099,Journalist_99,Print,MediaOrg_9,India,French,2023-01-06,Yes,2023-01-08,Media Centre,Yes,08:45,Approved,No
+ACC0100,JOUR0100,Journalist_100,Radio,MediaOrg_29,Netherlands,French,2023-01-05,Yes,2023-01-08,VIP Lounge,Yes,11:30,Approved,No
+ACC0101,JOUR0101,Journalist_101,Print,MediaOrg_31,New Zealand,Spanish,2023-01-08,Yes,2023-01-09,Press Conference Room,No,07:00,Approved,Yes
+ACC0102,JOUR0102,Journalist_102,TV,MediaOrg_18,Fiji,French,2023-01-08,No,2023-01-10,Cultural Pavilion,Yes,10:45,Approved,No
+ACC0103,JOUR0103,Journalist_103,Photographer,MediaOrg_42,Germany,Telugu,2023-01-08,Yes,2023-01-08,Exhibition Hall,No,10:45,Approved,Yes
+ACC0104,JOUR0104,Journalist_104,Radio,MediaOrg_21,Trinidad,Tamil,2023-01-07,No,2023-01-10,Exhibition Hall,Yes,07:00,Approved,No
+ACC0105,JOUR0105,Journalist_105,Digital,MediaOrg_52,UK,English,2023-01-07,Yes,2023-01-09,Cultural Pavilion,No,10:00,Rejected,No
+ACC0106,JOUR0106,Journalist_106,Digital,MediaOrg_7,Fiji,Telugu,2023-01-06,Yes,2023-01-08,Main Plenary Hall,No,11:30,Approved,No
+ACC0107,JOUR0107,Journalist_107,TV,MediaOrg_52,Singapore,English,2023-01-07,Yes,2023-01-09,Press Conference Room,Yes,09:30,Approved,Yes
+ACC0108,JOUR0108,Journalist_108,TV,MediaOrg_37,Trinidad,Spanish,2023-01-05,Yes,2023-01-10,Main Plenary Hall,Yes,07:15,Approved,No
+ACC0109,JOUR0109,Journalist_109,TV,MediaOrg_24,Australia,French,2023-01-05,Yes,2023-01-08,Media Centre,Yes,11:00,Approved,No
+ACC0110,JOUR0110,Journalist_110,Photographer,MediaOrg_28,South Africa,Marathi,2023-01-08,Yes,2023-01-10,Main Plenary Hall,No,07:30,Approved,No
+ACC0111,JOUR0111,Journalist_111,International,MediaOrg_43,Australia,English,2023-01-06,Yes,2023-01-10,Main Plenary Hall,Yes,07:15,Approved,No
+ACC0112,JOUR0112,Journalist_112,TV,MediaOrg_49,Australia,Tamil,2023-01-07,Yes,2023-01-09,Press Conference Room,Yes,10:15,Approved,No
+ACC0113,JOUR0113,Journalist_113,TV,MediaOrg_33,Mauritius,French,2023-01-05,Yes,2023-01-10,Main Plenary Hall,Yes,10:00,Approved,Yes
+ACC0114,JOUR0114,Journalist_114,Digital,MediaOrg_37,Singapore,Spanish,2023-01-08,Yes,2023-01-09,Main Plenary Hall,No,08:45,Approved,No
+ACC0115,JOUR0115,Journalist_115,Print,MediaOrg_28,New Zealand,Hindi,2023-01-06,Yes,2023-01-09,VIP Lounge,Yes,09:30,Approved,No
+ACC0116,JOUR0116,Journalist_116,Print,MediaOrg_33,Trinidad,Hindi,2023-01-06,No,2023-01-09,Cultural Pavilion,No,08:15,Approved,No
+ACC0117,JOUR0117,Journalist_117,TV,MediaOrg_39,UK,Hindi,2023-01-06,No,2023-01-10,Exhibition Hall,Yes,10:45,Approved,No
+ACC0118,JOUR0118,Journalist_118,Photographer,MediaOrg_41,Fiji,French,2023-01-07,Yes,2023-01-08,Exhibition Hall,No,09:30,Approved,No
+ACC0119,JOUR0119,Journalist_119,Print,MediaOrg_20,South Africa,Marathi,2023-01-05,Yes,2023-01-09,Main Plenary Hall,No,07:45,Approved,No
+ACC0120,JOUR0120,Journalist_120,Photographer,MediaOrg_58,India,Marathi,2023-01-06,Yes,2023-01-09,VIP Lounge,Yes,07:45,Approved,No
+ACC0121,JOUR0121,Journalist_121,Digital,MediaOrg_46,USA,Gujarati,2023-01-05,Yes,2023-01-09,Exhibition Hall,No,11:15,Approved,No
+ACC0122,JOUR0122,Journalist_122,Radio,MediaOrg_27,Netherlands,French,2023-01-05,Yes,2023-01-10,Cultural Pavilion,Yes,07:45,Approved,No
+ACC0123,JOUR0123,Journalist_123,Photographer,MediaOrg_59,Fiji,Gujarati,2023-01-07,Yes,2023-01-10,Media Centre,No,09:45,Approved,No
+ACC0124,JOUR0124,Journalist_124,Print,MediaOrg_20,Mauritius,Spanish,2023-01-07,Yes,2023-01-10,Press Conference Room,No,11:00,Approved,No
+ACC0125,JOUR0125,Journalist_125,Digital,MediaOrg_2,UAE,Tamil,2023-01-06,No,2023-01-09,Exhibition Hall,Yes,08:15,Approved,No
+ACC0126,JOUR0126,Journalist_126,Print,MediaOrg_33,Netherlands,English,2023-01-07,Yes,2023-01-10,Media Centre,No,08:15,Approved,No
+ACC0127,JOUR0127,Journalist_127,International,MediaOrg_52,Germany,Gujarati,2023-01-08,Yes,2023-01-09,Press Conference Room,Yes,08:45,Approved,No
+ACC0128,JOUR0128,Journalist_128,Radio,MediaOrg_15,Mauritius,Telugu,2023-01-07,No,2023-01-09,Media Centre,No,11:45,Approved,No
+ACC0129,JOUR0129,Journalist_129,Radio,MediaOrg_33,Mauritius,Spanish,2023-01-06,Yes,2023-01-10,Media Centre,No,07:45,Pending,No
+ACC0130,JOUR0130,Journalist_130,Print,MediaOrg_46,New Zealand,Hindi,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,11:15,Approved,Yes
+ACC0131,JOUR0131,Journalist_131,TV,MediaOrg_53,South Africa,French,2023-01-05,Yes,2023-01-09,VIP Lounge,Yes,09:15,Approved,Yes
+ACC0132,JOUR0132,Journalist_132,TV,MediaOrg_2,UAE,Hindi,2023-01-07,Yes,2023-01-08,Main Plenary Hall,Yes,09:45,Approved,Yes
+ACC0133,JOUR0133,Journalist_133,Photographer,MediaOrg_31,South Africa,English,2023-01-05,Yes,2023-01-08,Media Centre,No,11:45,Approved,No
+ACC0134,JOUR0134,Journalist_134,Digital,MediaOrg_8,India,Telugu,2023-01-08,Yes,2023-01-10,Exhibition Hall,Yes,10:00,Approved,No
+ACC0135,JOUR0135,Journalist_135,Photographer,MediaOrg_10,Australia,Spanish,2023-01-05,Yes,2023-01-08,VIP Lounge,No,07:30,Approved,No
+ACC0136,JOUR0136,Journalist_136,International,MediaOrg_51,Mauritius,English,2023-01-08,Yes,2023-01-08,Press Conference Room,Yes,10:30,Approved,Yes
+ACC0137,JOUR0137,Journalist_137,Print,MediaOrg_23,Canada,Hindi,2023-01-07,Yes,2023-01-09,VIP Lounge,No,08:45,Rejected,No
+ACC0138,JOUR0138,Journalist_138,TV,MediaOrg_52,UK,Hindi,2023-01-08,Yes,2023-01-08,Main Plenary Hall,Yes,08:00,Approved,No
+ACC0139,JOUR0139,Journalist_139,Radio,MediaOrg_53,Mauritius,Marathi,2023-01-07,Yes,2023-01-10,Media Centre,Yes,07:30,Approved,No
+ACC0140,JOUR0140,Journalist_140,Radio,MediaOrg_57,Singapore,Marathi,2023-01-08,Yes,2023-01-08,Exhibition Hall,No,09:30,Approved,No
+ACC0141,JOUR0141,Journalist_141,Print,MediaOrg_28,Fiji,Gujarati,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,09:45,Approved,No
+ACC0142,JOUR0142,Journalist_142,Photographer,MediaOrg_29,UAE,Marathi,2023-01-05,Yes,2023-01-09,VIP Lounge,No,09:00,Approved,No
+ACC0143,JOUR0143,Journalist_143,Digital,MediaOrg_33,Netherlands,Gujarati,2023-01-05,Yes,2023-01-10,Press Conference Room,No,07:15,Approved,No
+ACC0144,JOUR0144,Journalist_144,Digital,MediaOrg_24,Singapore,English,2023-01-06,Yes,2023-01-09,Cultural Pavilion,No,07:15,Approved,No
+ACC0145,JOUR0145,Journalist_145,Photographer,MediaOrg_18,Canada,Hindi,2023-01-05,Yes,2023-01-09,VIP Lounge,No,11:00,Approved,No
+ACC0146,JOUR0146,Journalist_146,Radio,MediaOrg_14,Fiji,Tamil,2023-01-08,Yes,2023-01-08,Main Plenary Hall,No,10:00,Approved,No
+ACC0147,JOUR0147,Journalist_147,Digital,MediaOrg_43,UAE,Hindi,2023-01-07,Yes,2023-01-08,Press Conference Room,No,08:30,Approved,Yes
+ACC0148,JOUR0148,Journalist_148,TV,MediaOrg_51,UK,Telugu,2023-01-08,Yes,2023-01-10,VIP Lounge,Yes,09:45,Approved,No
+ACC0149,JOUR0149,Journalist_149,International,MediaOrg_57,USA,Hindi,2023-01-07,Yes,2023-01-10,Press Conference Room,Yes,10:45,Approved,No
+ACC0150,JOUR0150,Journalist_150,Print,MediaOrg_9,UAE,Hindi,2023-01-08,Yes,2023-01-10,Cultural Pavilion,Yes,11:15,Approved,Yes
+ACC0151,JOUR0151,Journalist_151,International,MediaOrg_59,New Zealand,English,2023-01-05,Yes,2023-01-09,Media Centre,Yes,08:30,Pending,No
+ACC0152,JOUR0152,Journalist_152,International,MediaOrg_58,Australia,Hindi,2023-01-07,Yes,2023-01-10,Cultural Pavilion,Yes,08:30,Approved,Yes
+ACC0153,JOUR0153,Journalist_153,Photographer,MediaOrg_11,Fiji,Gujarati,2023-01-06,Yes,2023-01-10,VIP Lounge,No,11:00,Approved,Yes
+ACC0154,JOUR0154,Journalist_154,Print,MediaOrg_42,Netherlands,Tamil,2023-01-06,Yes,2023-01-09,VIP Lounge,No,10:30,Approved,No
+ACC0155,JOUR0155,Journalist_155,TV,MediaOrg_52,Netherlands,Spanish,2023-01-07,Yes,2023-01-10,Main Plenary Hall,Yes,08:45,Approved,No
+ACC0156,JOUR0156,Journalist_156,Digital,MediaOrg_39,UK,French,2023-01-07,Yes,2023-01-09,Exhibition Hall,Yes,09:00,Approved,No
+ACC0157,JOUR0157,Journalist_157,Digital,MediaOrg_29,Canada,Gujarati,2023-01-05,Yes,2023-01-09,VIP Lounge,No,08:30,Pending,No
+ACC0158,JOUR0158,Journalist_158,TV,MediaOrg_49,UK,Marathi,2023-01-08,Yes,2023-01-09,Exhibition Hall,Yes,07:00,Pending,No
+ACC0159,JOUR0159,Journalist_159,TV,MediaOrg_14,Fiji,French,2023-01-05,Yes,2023-01-09,VIP Lounge,Yes,10:30,Approved,No
+ACC0160,JOUR0160,Journalist_160,Radio,MediaOrg_9,Germany,Tamil,2023-01-07,Yes,2023-01-09,Main Plenary Hall,No,11:15,Approved,No
+ACC0161,JOUR0161,Journalist_161,Radio,MediaOrg_33,South Africa,Tamil,2023-01-05,Yes,2023-01-08,Exhibition Hall,No,09:30,Approved,Yes
+ACC0162,JOUR0162,Journalist_162,International,MediaOrg_26,Mauritius,English,2023-01-05,Yes,2023-01-10,Cultural Pavilion,Yes,10:45,Approved,No
+ACC0163,JOUR0163,Journalist_163,TV,MediaOrg_21,Germany,French,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,09:30,Approved,No
+ACC0164,JOUR0164,Journalist_164,Radio,MediaOrg_46,Fiji,Tamil,2023-01-08,Yes,2023-01-09,Cultural Pavilion,No,10:30,Approved,No
+ACC0165,JOUR0165,Journalist_165,Photographer,MediaOrg_41,India,Marathi,2023-01-07,No,2023-01-10,VIP Lounge,Yes,07:45,Approved,No
+ACC0166,JOUR0166,Journalist_166,International,MediaOrg_50,New Zealand,Spanish,2023-01-06,Yes,2023-01-08,Main Plenary Hall,Yes,11:00,Approved,No
+ACC0167,JOUR0167,Journalist_167,Radio,MediaOrg_10,Singapore,Telugu,2023-01-08,Yes,2023-01-10,Exhibition Hall,No,07:15,Approved,No
+ACC0168,JOUR0168,Journalist_168,Photographer,MediaOrg_31,Mauritius,Spanish,2023-01-07,No,2023-01-09,VIP Lounge,No,09:30,Approved,Yes
+ACC0169,JOUR0169,Journalist_169,TV,MediaOrg_18,Mauritius,Tamil,2023-01-06,No,2023-01-09,Cultural Pavilion,Yes,08:45,Approved,No
+ACC0170,JOUR0170,Journalist_170,Photographer,MediaOrg_18,Australia,Hindi,2023-01-08,Yes,2023-01-09,Cultural Pavilion,No,08:30,Approved,No
+ACC0171,JOUR0171,Journalist_171,Print,MediaOrg_23,Germany,Marathi,2023-01-07,Yes,2023-01-08,Media Centre,No,09:30,Approved,No
+ACC0172,JOUR0172,Journalist_172,International,MediaOrg_16,Canada,English,2023-01-06,Yes,2023-01-08,Main Plenary Hall,Yes,10:30,Approved,Yes
+ACC0173,JOUR0173,Journalist_173,TV,MediaOrg_1,Mauritius,Gujarati,2023-01-08,Yes,2023-01-09,Exhibition Hall,Yes,08:30,Approved,No
+ACC0174,JOUR0174,Journalist_174,Print,MediaOrg_42,Fiji,Telugu,2023-01-05,No,2023-01-08,Exhibition Hall,No,08:00,Rejected,No
+ACC0175,JOUR0175,Journalist_175,Radio,MediaOrg_12,Germany,Tamil,2023-01-05,Yes,2023-01-10,VIP Lounge,Yes,09:30,Approved,No
+ACC0176,JOUR0176,Journalist_176,International,MediaOrg_32,Germany,Gujarati,2023-01-08,Yes,2023-01-08,Cultural Pavilion,Yes,08:45,Approved,No
+ACC0177,JOUR0177,Journalist_177,Print,MediaOrg_48,UAE,Tamil,2023-01-06,Yes,2023-01-10,Exhibition Hall,No,11:30,Approved,No
+ACC0178,JOUR0178,Journalist_178,TV,MediaOrg_9,South Africa,French,2023-01-06,Yes,2023-01-09,Media Centre,Yes,10:30,Rejected,No
+ACC0179,JOUR0179,Journalist_179,Photographer,MediaOrg_37,India,Tamil,2023-01-07,Yes,2023-01-08,Press Conference Room,Yes,09:15,Approved,No
+ACC0180,JOUR0180,Journalist_180,Photographer,MediaOrg_50,Australia,Hindi,2023-01-07,Yes,2023-01-08,Media Centre,No,10:15,Approved,No
+ACC0181,JOUR0181,Journalist_181,Digital,MediaOrg_27,Guyana,Marathi,2023-01-06,Yes,2023-01-10,VIP Lounge,No,07:45,Approved,No
+ACC0182,JOUR0182,Journalist_182,International,MediaOrg_8,India,Telugu,2023-01-06,Yes,2023-01-10,Exhibition Hall,Yes,07:15,Approved,No
+ACC0183,JOUR0183,Journalist_183,International,MediaOrg_29,Netherlands,English,2023-01-08,Yes,2023-01-09,Exhibition Hall,Yes,11:00,Approved,No
+ACC0184,JOUR0184,Journalist_184,Digital,MediaOrg_47,India,Spanish,2023-01-07,Yes,2023-01-10,Media Centre,No,07:45,Approved,Yes
+ACC0185,JOUR0185,Journalist_185,Print,MediaOrg_60,Germany,Hindi,2023-01-08,Yes,2023-01-09,Media Centre,No,10:30,Rejected,No
+ACC0186,JOUR0186,Journalist_186,Radio,MediaOrg_25,USA,Gujarati,2023-01-07,Yes,2023-01-10,Exhibition Hall,No,08:00,Approved,No
+ACC0187,JOUR0187,Journalist_187,Radio,MediaOrg_44,Guyana,Spanish,2023-01-08,Yes,2023-01-08,Exhibition Hall,No,09:15,Pending,No
+ACC0188,JOUR0188,Journalist_188,Print,MediaOrg_3,Netherlands,Spanish,2023-01-05,Yes,2023-01-08,Main Plenary Hall,No,10:00,Approved,Yes
+ACC0189,JOUR0189,Journalist_189,Radio,MediaOrg_15,Mauritius,Telugu,2023-01-05,Yes,2023-01-09,Media Centre,No,11:30,Approved,No
+ACC0190,JOUR0190,Journalist_190,Digital,MediaOrg_16,Australia,Gujarati,2023-01-06,Yes,2023-01-09,Main Plenary Hall,No,11:15,Approved,No
+ACC0191,JOUR0191,Journalist_191,Radio,MediaOrg_4,UAE,Spanish,2023-01-07,Yes,2023-01-09,Media Centre,Yes,08:45,Approved,No
+ACC0192,JOUR0192,Journalist_192,Photographer,MediaOrg_10,Netherlands,Marathi,2023-01-05,Yes,2023-01-09,VIP Lounge,No,10:15,Approved,No
+ACC0193,JOUR0193,Journalist_193,Print,MediaOrg_60,South Africa,French,2023-01-05,Yes,2023-01-08,Main Plenary Hall,Yes,11:00,Pending,Yes
+ACC0194,JOUR0194,Journalist_194,International,MediaOrg_47,Trinidad,Telugu,2023-01-08,Yes,2023-01-09,Cultural Pavilion,Yes,07:15,Pending,No
+ACC0195,JOUR0195,Journalist_195,Print,MediaOrg_48,Netherlands,Marathi,2023-01-06,Yes,2023-01-10,Media Centre,No,08:30,Approved,No
+ACC0196,JOUR0196,Journalist_196,International,MediaOrg_42,UAE,Tamil,2023-01-07,Yes,2023-01-09,Exhibition Hall,Yes,07:45,Approved,No
+ACC0197,JOUR0197,Journalist_197,TV,MediaOrg_24,UAE,Spanish,2023-01-05,Yes,2023-01-08,Press Conference Room,Yes,08:00,Approved,No
+ACC0198,JOUR0198,Journalist_198,International,MediaOrg_47,Singapore,Tamil,2023-01-06,Yes,2023-01-08,Exhibition Hall,Yes,11:15,Approved,No
+ACC0199,JOUR0199,Journalist_199,Photographer,MediaOrg_22,Australia,Marathi,2023-01-08,Yes,2023-01-10,Cultural Pavilion,Yes,11:45,Approved,No
+ACC0200,JOUR0200,Journalist_200,Photographer,MediaOrg_4,Mauritius,English,2023-01-05,No,2023-01-10,Main Plenary Hall,No,10:15,Approved,No
+ACC0201,JOUR0201,Journalist_201,Photographer,MediaOrg_10,India,Telugu,2023-01-08,Yes,2023-01-10,Press Conference Room,No,11:45,Approved,Yes
+ACC0202,JOUR0202,Journalist_202,International,MediaOrg_36,Singapore,English,2023-01-05,Yes,2023-01-09,VIP Lounge,Yes,09:00,Approved,No
+ACC0203,JOUR0203,Journalist_203,Radio,MediaOrg_52,Germany,Gujarati,2023-01-05,No,2023-01-10,Media Centre,Yes,11:30,Approved,No
+ACC0204,JOUR0204,Journalist_204,Radio,MediaOrg_6,UAE,Spanish,2023-01-08,Yes,2023-01-10,Media Centre,Yes,07:00,Approved,No
+ACC0205,JOUR0205,Journalist_205,International,MediaOrg_31,India,English,2023-01-06,Yes,2023-01-09,Press Conference Room,Yes,09:00,Pending,No
+ACC0206,JOUR0206,Journalist_206,TV,MediaOrg_14,Germany,Marathi,2023-01-07,Yes,2023-01-08,Press Conference Room,Yes,09:00,Approved,No
+ACC0207,JOUR0207,Journalist_207,Print,MediaOrg_14,Fiji,Gujarati,2023-01-08,No,2023-01-09,Media Centre,No,11:45,Approved,No
+ACC0208,JOUR0208,Journalist_208,Radio,MediaOrg_49,Guyana,Gujarati,2023-01-05,Yes,2023-01-09,Main Plenary Hall,Yes,08:00,Approved,No
+ACC0209,JOUR0209,Journalist_209,International,MediaOrg_26,Netherlands,French,2023-01-05,Yes,2023-01-09,Exhibition Hall,Yes,08:30,Approved,No
+ACC0210,JOUR0210,Journalist_210,TV,MediaOrg_44,Fiji,Spanish,2023-01-05,Yes,2023-01-09,Media Centre,Yes,07:00,Approved,No
+ACC0211,JOUR0211,Journalist_211,Photographer,MediaOrg_10,Guyana,Spanish,2023-01-07,Yes,2023-01-08,Main Plenary Hall,No,10:30,Approved,Yes
+ACC0212,JOUR0212,Journalist_212,Print,MediaOrg_12,Singapore,Marathi,2023-01-08,Yes,2023-01-08,Cultural Pavilion,No,11:30,Pending,Yes
+ACC0213,JOUR0213,Journalist_213,Radio,MediaOrg_25,Netherlands,Hindi,2023-01-06,Yes,2023-01-08,Press Conference Room,No,08:30,Approved,No
+ACC0214,JOUR0214,Journalist_214,Print,MediaOrg_11,Singapore,Tamil,2023-01-08,Yes,2023-01-08,Cultural Pavilion,Yes,08:45,Approved,Yes
+ACC0215,JOUR0215,Journalist_215,Print,MediaOrg_9,Australia,English,2023-01-08,Yes,2023-01-10,Exhibition Hall,No,09:45,Approved,No
+ACC0216,JOUR0216,Journalist_216,Photographer,MediaOrg_39,UK,Tamil,2023-01-07,Yes,2023-01-10,Media Centre,No,08:45,Rejected,No
+ACC0217,JOUR0217,Journalist_217,Photographer,MediaOrg_41,South Africa,Telugu,2023-01-07,Yes,2023-01-09,Cultural Pavilion,Yes,11:15,Approved,No
+ACC0218,JOUR0218,Journalist_218,Photographer,MediaOrg_50,Mauritius,English,2023-01-08,No,2023-01-08,Exhibition Hall,No,07:45,Approved,Yes
+ACC0219,JOUR0219,Journalist_219,Digital,MediaOrg_16,Australia,Gujarati,2023-01-08,Yes,2023-01-08,Exhibition Hall,No,10:45,Approved,No
+ACC0220,JOUR0220,Journalist_220,Photographer,MediaOrg_27,Mauritius,English,2023-01-07,Yes,2023-01-10,VIP Lounge,No,07:00,Approved,No
+ACC0221,JOUR0221,Journalist_221,Digital,MediaOrg_11,Trinidad,English,2023-01-08,No,2023-01-09,Exhibition Hall,Yes,07:30,Approved,No
+ACC0222,JOUR0222,Journalist_222,International,MediaOrg_38,Guyana,Telugu,2023-01-08,Yes,2023-01-09,Press Conference Room,Yes,11:15,Approved,Yes
+ACC0223,JOUR0223,Journalist_223,Print,MediaOrg_19,Singapore,Hindi,2023-01-05,Yes,2023-01-10,Media Centre,No,09:45,Approved,No
+ACC0224,JOUR0224,Journalist_224,Digital,MediaOrg_31,USA,Marathi,2023-01-08,Yes,2023-01-09,Main Plenary Hall,No,07:00,Approved,No
+ACC0225,JOUR0225,Journalist_225,Photographer,MediaOrg_52,UK,Telugu,2023-01-06,Yes,2023-01-09,VIP Lounge,No,10:15,Approved,No
+ACC0226,JOUR0226,Journalist_226,TV,MediaOrg_41,Trinidad,Spanish,2023-01-08,Yes,2023-01-10,Media Centre,Yes,10:45,Approved,No
+ACC0227,JOUR0227,Journalist_227,TV,MediaOrg_18,Netherlands,Hindi,2023-01-05,Yes,2023-01-10,Media Centre,Yes,09:30,Approved,Yes
+ACC0228,JOUR0228,Journalist_228,Photographer,MediaOrg_56,South Africa,French,2023-01-08,Yes,2023-01-10,Main Plenary Hall,No,10:15,Approved,No
+ACC0229,JOUR0229,Journalist_229,Digital,MediaOrg_59,Fiji,Hindi,2023-01-06,Yes,2023-01-08,Cultural Pavilion,Yes,09:15,Approved,No
+ACC0230,JOUR0230,Journalist_230,TV,MediaOrg_37,Singapore,Spanish,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,08:15,Approved,Yes
+ACC0231,JOUR0231,Journalist_231,Digital,MediaOrg_54,South Africa,English,2023-01-07,No,2023-01-09,Media Centre,Yes,10:45,Approved,No
+ACC0232,JOUR0232,Journalist_232,Photographer,MediaOrg_54,South Africa,Marathi,2023-01-06,Yes,2023-01-08,Media Centre,Yes,09:15,Approved,Yes
+ACC0233,JOUR0233,Journalist_233,Radio,MediaOrg_37,Guyana,Marathi,2023-01-05,Yes,2023-01-09,VIP Lounge,No,09:00,Approved,No
+ACC0234,JOUR0234,Journalist_234,TV,MediaOrg_28,USA,Telugu,2023-01-07,Yes,2023-01-08,Exhibition Hall,Yes,09:30,Pending,Yes
+ACC0235,JOUR0235,Journalist_235,Print,MediaOrg_50,Netherlands,Telugu,2023-01-06,Yes,2023-01-10,Press Conference Room,No,11:45,Approved,Yes
+ACC0236,JOUR0236,Journalist_236,TV,MediaOrg_53,Canada,English,2023-01-07,Yes,2023-01-10,VIP Lounge,Yes,08:30,Rejected,No
+ACC0237,JOUR0237,Journalist_237,International,MediaOrg_18,New Zealand,Hindi,2023-01-06,No,2023-01-09,Main Plenary Hall,Yes,09:15,Approved,Yes
+ACC0238,JOUR0238,Journalist_238,TV,MediaOrg_46,UAE,Telugu,2023-01-08,Yes,2023-01-10,Press Conference Room,Yes,09:45,Approved,Yes
+ACC0239,JOUR0239,Journalist_239,Print,MediaOrg_26,Mauritius,Tamil,2023-01-07,Yes,2023-01-09,Cultural Pavilion,No,07:45,Approved,No
+ACC0240,JOUR0240,Journalist_240,Print,MediaOrg_51,Mauritius,Spanish,2023-01-06,No,2023-01-08,Exhibition Hall,Yes,09:30,Approved,Yes
+ACC0241,JOUR0241,Journalist_241,Radio,MediaOrg_51,UAE,English,2023-01-05,Yes,2023-01-09,Main Plenary Hall,Yes,08:45,Approved,No
+ACC0242,JOUR0242,Journalist_242,Radio,MediaOrg_13,Guyana,Gujarati,2023-01-07,Yes,2023-01-09,Main Plenary Hall,No,09:00,Approved,No
+ACC0243,JOUR0243,Journalist_243,TV,MediaOrg_4,Singapore,Tamil,2023-01-06,Yes,2023-01-08,Press Conference Room,Yes,07:00,Approved,Yes
+ACC0244,JOUR0244,Journalist_244,International,MediaOrg_15,Mauritius,Marathi,2023-01-05,Yes,2023-01-09,Main Plenary Hall,Yes,10:15,Approved,No
+ACC0245,JOUR0245,Journalist_245,Print,MediaOrg_47,Netherlands,Hindi,2023-01-05,Yes,2023-01-09,Media Centre,No,08:15,Approved,No
+ACC0246,JOUR0246,Journalist_246,International,MediaOrg_42,UK,Marathi,2023-01-07,Yes,2023-01-10,Press Conference Room,Yes,08:45,Approved,No
+ACC0247,JOUR0247,Journalist_247,TV,MediaOrg_6,Germany,Hindi,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,10:30,Rejected,No
+ACC0248,JOUR0248,Journalist_248,TV,MediaOrg_16,Australia,Hindi,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,11:30,Approved,No
+ACC0249,JOUR0249,Journalist_249,Photographer,MediaOrg_57,Australia,Telugu,2023-01-06,Yes,2023-01-09,Press Conference Room,Yes,08:45,Approved,No
+ACC0250,JOUR0250,Journalist_250,Photographer,MediaOrg_39,USA,English,2023-01-07,No,2023-01-08,Exhibition Hall,No,11:45,Approved,No
+ACC0251,JOUR0251,Journalist_251,Radio,MediaOrg_50,USA,English,2023-01-05,Yes,2023-01-08,Main Plenary Hall,No,10:30,Approved,No
+ACC0252,JOUR0252,Journalist_252,Radio,MediaOrg_28,Guyana,Spanish,2023-01-05,Yes,2023-01-10,VIP Lounge,Yes,07:30,Approved,No
+ACC0253,JOUR0253,Journalist_253,TV,MediaOrg_35,UAE,Spanish,2023-01-05,Yes,2023-01-09,Press Conference Room,Yes,08:00,Approved,No
+ACC0254,JOUR0254,Journalist_254,Print,MediaOrg_30,Fiji,English,2023-01-07,Yes,2023-01-10,Press Conference Room,Yes,07:15,Approved,Yes
+ACC0255,JOUR0255,Journalist_255,Digital,MediaOrg_34,Mauritius,Tamil,2023-01-06,Yes,2023-01-10,Cultural Pavilion,No,07:00,Approved,No
+ACC0256,JOUR0256,Journalist_256,International,MediaOrg_5,Australia,Hindi,2023-01-08,Yes,2023-01-09,Main Plenary Hall,Yes,10:15,Approved,No
+ACC0257,JOUR0257,Journalist_257,Print,MediaOrg_58,Fiji,Hindi,2023-01-06,Yes,2023-01-08,Main Plenary Hall,No,07:15,Approved,No
+ACC0258,JOUR0258,Journalist_258,TV,MediaOrg_12,Germany,English,2023-01-08,Yes,2023-01-08,Exhibition Hall,Yes,09:30,Approved,No
+ACC0259,JOUR0259,Journalist_259,Print,MediaOrg_33,Trinidad,English,2023-01-06,Yes,2023-01-10,Main Plenary Hall,No,07:45,Pending,No
+ACC0260,JOUR0260,Journalist_260,Digital,MediaOrg_21,USA,Marathi,2023-01-05,Yes,2023-01-09,VIP Lounge,No,11:15,Approved,No
+ACC0261,JOUR0261,Journalist_261,Radio,MediaOrg_50,Netherlands,Telugu,2023-01-06,Yes,2023-01-09,Main Plenary Hall,Yes,09:00,Rejected,Yes
+ACC0262,JOUR0262,Journalist_262,Photographer,MediaOrg_25,New Zealand,Tamil,2023-01-05,Yes,2023-01-08,Exhibition Hall,No,07:15,Approved,Yes
+ACC0263,JOUR0263,Journalist_263,TV,MediaOrg_58,New Zealand,Spanish,2023-01-07,Yes,2023-01-10,Main Plenary Hall,Yes,11:00,Approved,No
+ACC0264,JOUR0264,Journalist_264,Radio,MediaOrg_5,Fiji,English,2023-01-08,Yes,2023-01-08,Media Centre,Yes,09:45,Approved,No
+ACC0265,JOUR0265,Journalist_265,Digital,MediaOrg_29,Australia,Telugu,2023-01-05,No,2023-01-08,VIP Lounge,Yes,07:15,Approved,No
+ACC0266,JOUR0266,Journalist_266,Print,MediaOrg_35,UAE,Telugu,2023-01-08,Yes,2023-01-09,Main Plenary Hall,Yes,09:00,Approved,No
+ACC0267,JOUR0267,Journalist_267,TV,MediaOrg_6,Guyana,Telugu,2023-01-07,Yes,2023-01-08,Press Conference Room,Yes,09:30,Approved,Yes
+ACC0268,JOUR0268,Journalist_268,Radio,MediaOrg_55,South Africa,Telugu,2023-01-05,Yes,2023-01-08,Main Plenary Hall,Yes,08:15,Approved,No
+ACC0269,JOUR0269,Journalist_269,Photographer,MediaOrg_41,Trinidad,Hindi,2023-01-07,No,2023-01-08,Main Plenary Hall,No,08:45,Approved,Yes
+ACC0270,JOUR0270,Journalist_270,Digital,MediaOrg_8,India,Marathi,2023-01-05,Yes,2023-01-10,Exhibition Hall,No,10:45,Approved,No
+ACC0271,JOUR0271,Journalist_271,TV,MediaOrg_23,Canada,Gujarati,2023-01-07,Yes,2023-01-08,Main Plenary Hall,Yes,11:15,Approved,No
+ACC0272,JOUR0272,Journalist_272,International,MediaOrg_31,India,Hindi,2023-01-07,Yes,2023-01-09,Media Centre,Yes,11:15,Approved,No
+ACC0273,JOUR0273,Journalist_273,Print,MediaOrg_25,Netherlands,French,2023-01-08,Yes,2023-01-09,Cultural Pavilion,No,11:30,Approved,Yes
+ACC0274,JOUR0274,Journalist_274,Digital,MediaOrg_39,Canada,English,2023-01-07,Yes,2023-01-09,VIP Lounge,No,11:15,Rejected,Yes
+ACC0275,JOUR0275,Journalist_275,Photographer,MediaOrg_16,Australia,English,2023-01-06,Yes,2023-01-09,Cultural Pavilion,No,08:15,Approved,No
+ACC0276,JOUR0276,Journalist_276,Photographer,MediaOrg_45,UAE,English,2023-01-07,No,2023-01-10,Media Centre,No,08:45,Approved,Yes
+ACC0277,JOUR0277,Journalist_277,Print,MediaOrg_6,India,Telugu,2023-01-06,Yes,2023-01-09,Main Plenary Hall,No,11:15,Approved,No
+ACC0278,JOUR0278,Journalist_278,TV,MediaOrg_59,Netherlands,French,2023-01-05,Yes,2023-01-10,Press Conference Room,Yes,08:00,Approved,No
+ACC0279,JOUR0279,Journalist_279,Print,MediaOrg_24,Guyana,Spanish,2023-01-05,Yes,2023-01-09,Media Centre,No,10:45,Approved,Yes
+ACC0280,JOUR0280,Journalist_280,International,MediaOrg_45,Germany,French,2023-01-06,Yes,2023-01-08,Exhibition Hall,Yes,09:30,Approved,No
+ACC0281,JOUR0281,Journalist_281,Photographer,MediaOrg_37,Singapore,English,2023-01-06,Yes,2023-01-10,Media Centre,No,07:45,Approved,No
+ACC0282,JOUR0282,Journalist_282,TV,MediaOrg_23,UAE,Gujarati,2023-01-05,Yes,2023-01-10,Press Conference Room,Yes,09:45,Approved,No
+ACC0283,JOUR0283,Journalist_283,Photographer,MediaOrg_5,UAE,Tamil,2023-01-05,Yes,2023-01-08,Exhibition Hall,No,10:15,Pending,No
+ACC0284,JOUR0284,Journalist_284,Radio,MediaOrg_23,Mauritius,Spanish,2023-01-05,Yes,2023-01-10,Press Conference Room,No,08:15,Approved,No
+ACC0285,JOUR0285,Journalist_285,Print,MediaOrg_19,India,French,2023-01-07,No,2023-01-08,Cultural Pavilion,Yes,10:15,Approved,No
+ACC0286,JOUR0286,Journalist_286,Print,MediaOrg_22,Fiji,Marathi,2023-01-05,Yes,2023-01-10,Media Centre,No,10:15,Approved,No
+ACC0287,JOUR0287,Journalist_287,TV,MediaOrg_27,Guyana,Tamil,2023-01-07,Yes,2023-01-08,Main Plenary Hall,Yes,10:45,Approved,No
+ACC0288,JOUR0288,Journalist_288,Radio,MediaOrg_6,Australia,Marathi,2023-01-06,Yes,2023-01-08,Media Centre,No,07:45,Approved,No
+ACC0289,JOUR0289,Journalist_289,Radio,MediaOrg_31,South Africa,Tamil,2023-01-05,Yes,2023-01-09,Media Centre,No,10:30,Approved,Yes
+ACC0290,JOUR0290,Journalist_290,Radio,MediaOrg_30,Australia,Telugu,2023-01-07,Yes,2023-01-08,Press Conference Room,No,07:30,Approved,No
+ACC0291,JOUR0291,Journalist_291,International,MediaOrg_15,Mauritius,English,2023-01-08,Yes,2023-01-09,VIP Lounge,Yes,10:15,Approved,Yes
+ACC0292,JOUR0292,Journalist_292,Photographer,MediaOrg_3,Mauritius,Gujarati,2023-01-05,No,2023-01-09,Media Centre,No,08:15,Approved,Yes
+ACC0293,JOUR0293,Journalist_293,Radio,MediaOrg_6,Trinidad,Spanish,2023-01-06,No,2023-01-10,Media Centre,No,09:30,Pending,No
+ACC0294,JOUR0294,Journalist_294,Print,MediaOrg_6,Singapore,Spanish,2023-01-07,Yes,2023-01-10,Exhibition Hall,No,07:45,Approved,Yes
+ACC0295,JOUR0295,Journalist_295,International,MediaOrg_38,Fiji,Hindi,2023-01-05,Yes,2023-01-08,Cultural Pavilion,Yes,11:30,Pending,No
+ACC0296,JOUR0296,Journalist_296,Photographer,MediaOrg_32,Fiji,Marathi,2023-01-05,Yes,2023-01-09,Media Centre,No,10:00,Approved,No
+ACC0297,JOUR0297,Journalist_297,Photographer,MediaOrg_16,India,Marathi,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,09:30,Approved,No
+ACC0298,JOUR0298,Journalist_298,Photographer,MediaOrg_44,USA,Telugu,2023-01-06,Yes,2023-01-10,Exhibition Hall,No,09:30,Approved,No
+ACC0299,JOUR0299,Journalist_299,Print,MediaOrg_13,South Africa,Telugu,2023-01-08,Yes,2023-01-10,Cultural Pavilion,No,11:15,Approved,No
+ACC0300,JOUR0300,Journalist_300,Radio,MediaOrg_9,Netherlands,English,2023-01-06,Yes,2023-01-08,Main Plenary Hall,Yes,10:00,Pending,No
+ACC0301,JOUR0301,Journalist_301,Digital,MediaOrg_24,New Zealand,Marathi,2023-01-08,Yes,2023-01-08,Press Conference Room,Yes,09:45,Approved,Yes
+ACC0302,JOUR0302,Journalist_302,Radio,MediaOrg_38,Mauritius,French,2023-01-07,Yes,2023-01-09,Press Conference Room,No,07:30,Approved,Yes
+ACC0303,JOUR0303,Journalist_303,International,MediaOrg_50,Canada,Telugu,2023-01-06,Yes,2023-01-09,Press Conference Room,Yes,10:00,Pending,No
+ACC0304,JOUR0304,Journalist_304,Photographer,MediaOrg_1,South Africa,Gujarati,2023-01-06,Yes,2023-01-08,Media Centre,Yes,09:30,Approved,No
+ACC0305,JOUR0305,Journalist_305,Digital,MediaOrg_30,Australia,Telugu,2023-01-08,Yes,2023-01-10,VIP Lounge,No,07:00,Approved,No
+ACC0306,JOUR0306,Journalist_306,Digital,MediaOrg_36,Trinidad,Tamil,2023-01-07,Yes,2023-01-09,Main Plenary Hall,No,09:30,Pending,No
+ACC0307,JOUR0307,Journalist_307,Photographer,MediaOrg_58,Trinidad,Tamil,2023-01-06,Yes,2023-01-08,Main Plenary Hall,No,11:45,Approved,No
+ACC0308,JOUR0308,Journalist_308,Photographer,MediaOrg_2,Trinidad,Marathi,2023-01-07,Yes,2023-01-09,Exhibition Hall,No,07:15,Approved,No
+ACC0309,JOUR0309,Journalist_309,Photographer,MediaOrg_35,Trinidad,Marathi,2023-01-07,Yes,2023-01-08,Press Conference Room,No,08:30,Approved,Yes
+ACC0310,JOUR0310,Journalist_310,Digital,MediaOrg_47,Netherlands,Gujarati,2023-01-07,Yes,2023-01-08,Cultural Pavilion,Yes,09:45,Approved,No
+ACC0311,JOUR0311,Journalist_311,Digital,MediaOrg_38,Australia,Marathi,2023-01-05,Yes,2023-01-10,VIP Lounge,No,11:00,Approved,Yes
+ACC0312,JOUR0312,Journalist_312,Print,MediaOrg_56,Trinidad,Spanish,2023-01-07,Yes,2023-01-08,Media Centre,No,09:45,Rejected,No
+ACC0313,JOUR0313,Journalist_313,Radio,MediaOrg_10,UAE,Gujarati,2023-01-05,Yes,2023-01-10,Media Centre,No,07:00,Approved,No
+ACC0314,JOUR0314,Journalist_314,TV,MediaOrg_37,Netherlands,Gujarati,2023-01-08,Yes,2023-01-08,Media Centre,Yes,11:45,Approved,No
+ACC0315,JOUR0315,Journalist_315,Radio,MediaOrg_25,India,English,2023-01-06,Yes,2023-01-08,Cultural Pavilion,No,11:15,Approved,Yes
+ACC0316,JOUR0316,Journalist_316,Photographer,MediaOrg_16,Canada,French,2023-01-07,Yes,2023-01-09,VIP Lounge,No,08:00,Approved,No
+ACC0317,JOUR0317,Journalist_317,Digital,MediaOrg_30,Guyana,French,2023-01-08,Yes,2023-01-08,Cultural Pavilion,No,10:30,Approved,Yes
+ACC0318,JOUR0318,Journalist_318,Radio,MediaOrg_2,Canada,Telugu,2023-01-06,Yes,2023-01-08,VIP Lounge,No,07:30,Approved,No
+ACC0319,JOUR0319,Journalist_319,Radio,MediaOrg_57,Trinidad,Tamil,2023-01-05,Yes,2023-01-08,Press Conference Room,Yes,07:00,Approved,No
+ACC0320,JOUR0320,Journalist_320,Radio,MediaOrg_8,Mauritius,Tamil,2023-01-08,Yes,2023-01-08,Press Conference Room,No,07:30,Approved,Yes
+ACC0321,JOUR0321,Journalist_321,International,MediaOrg_18,Fiji,Gujarati,2023-01-08,Yes,2023-01-08,VIP Lounge,Yes,11:00,Approved,No
+ACC0322,JOUR0322,Journalist_322,Radio,MediaOrg_13,Fiji,Telugu,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,09:15,Approved,No
+ACC0323,JOUR0323,Journalist_323,TV,MediaOrg_45,Germany,Marathi,2023-01-07,Yes,2023-01-08,Press Conference Room,Yes,07:00,Approved,No
+ACC0324,JOUR0324,Journalist_324,TV,MediaOrg_6,Netherlands,Hindi,2023-01-05,No,2023-01-10,Media Centre,Yes,10:30,Approved,Yes
+ACC0325,JOUR0325,Journalist_325,TV,MediaOrg_56,India,Tamil,2023-01-07,Yes,2023-01-09,Exhibition Hall,Yes,07:00,Pending,No
+ACC0326,JOUR0326,Journalist_326,Print,MediaOrg_55,UK,Gujarati,2023-01-07,Yes,2023-01-09,VIP Lounge,Yes,07:30,Approved,Yes
+ACC0327,JOUR0327,Journalist_327,Radio,MediaOrg_26,South Africa,Tamil,2023-01-08,Yes,2023-01-09,Exhibition Hall,No,08:00,Approved,No
+ACC0328,JOUR0328,Journalist_328,TV,MediaOrg_7,Singapore,Marathi,2023-01-08,Yes,2023-01-09,Cultural Pavilion,Yes,11:00,Pending,No
+ACC0329,JOUR0329,Journalist_329,Photographer,MediaOrg_58,UK,Marathi,2023-01-08,Yes,2023-01-09,Exhibition Hall,Yes,09:30,Approved,No
+ACC0330,JOUR0330,Journalist_330,International,MediaOrg_50,Guyana,Telugu,2023-01-07,Yes,2023-01-10,Press Conference Room,Yes,11:00,Approved,No
+ACC0331,JOUR0331,Journalist_331,Radio,MediaOrg_23,Trinidad,Spanish,2023-01-06,Yes,2023-01-10,VIP Lounge,Yes,08:45,Pending,No
+ACC0332,JOUR0332,Journalist_332,Print,MediaOrg_49,South Africa,French,2023-01-06,Yes,2023-01-09,Main Plenary Hall,No,11:45,Approved,No
+ACC0333,JOUR0333,Journalist_333,Radio,MediaOrg_29,Netherlands,Marathi,2023-01-05,Yes,2023-01-09,Cultural Pavilion,Yes,10:00,Approved,No
+ACC0334,JOUR0334,Journalist_334,International,MediaOrg_36,India,Hindi,2023-01-07,Yes,2023-01-10,Media Centre,Yes,10:30,Approved,Yes
+ACC0335,JOUR0335,Journalist_335,TV,MediaOrg_55,South Africa,French,2023-01-08,Yes,2023-01-09,Press Conference Room,Yes,10:00,Approved,No
+ACC0336,JOUR0336,Journalist_336,Print,MediaOrg_22,UAE,Tamil,2023-01-07,Yes,2023-01-08,Media Centre,No,10:00,Approved,Yes
+ACC0337,JOUR0337,Journalist_337,Print,MediaOrg_60,New Zealand,Spanish,2023-01-06,Yes,2023-01-08,Press Conference Room,No,10:00,Pending,No
+ACC0338,JOUR0338,Journalist_338,International,MediaOrg_8,Netherlands,Marathi,2023-01-08,Yes,2023-01-10,Media Centre,Yes,10:00,Approved,Yes
+ACC0339,JOUR0339,Journalist_339,Radio,MediaOrg_54,Fiji,Marathi,2023-01-06,Yes,2023-01-08,Press Conference Room,No,07:45,Approved,No
+ACC0340,JOUR0340,Journalist_340,Digital,MediaOrg_33,Germany,Spanish,2023-01-08,No,2023-01-10,Media Centre,Yes,09:30,Approved,Yes
+ACC0341,JOUR0341,Journalist_341,Radio,MediaOrg_39,Guyana,Tamil,2023-01-07,Yes,2023-01-10,Press Conference Room,Yes,08:30,Approved,No
+ACC0342,JOUR0342,Journalist_342,TV,MediaOrg_46,Trinidad,Gujarati,2023-01-07,Yes,2023-01-09,VIP Lounge,Yes,10:45,Approved,No
+ACC0343,JOUR0343,Journalist_343,International,MediaOrg_19,Germany,Spanish,2023-01-05,Yes,2023-01-08,Exhibition Hall,Yes,08:00,Approved,Yes
+ACC0344,JOUR0344,Journalist_344,TV,MediaOrg_19,Trinidad,Tamil,2023-01-06,Yes,2023-01-10,Cultural Pavilion,Yes,08:00,Approved,No
+ACC0345,JOUR0345,Journalist_345,International,MediaOrg_56,Trinidad,Telugu,2023-01-08,Yes,2023-01-10,Cultural Pavilion,Yes,07:45,Approved,No
+ACC0346,JOUR0346,Journalist_346,Photographer,MediaOrg_21,Mauritius,English,2023-01-05,Yes,2023-01-08,VIP Lounge,No,10:15,Pending,No
+ACC0347,JOUR0347,Journalist_347,Photographer,MediaOrg_24,Netherlands,Telugu,2023-01-06,Yes,2023-01-08,Press Conference Room,Yes,08:00,Approved,No
+ACC0348,JOUR0348,Journalist_348,International,MediaOrg_17,UK,Gujarati,2023-01-07,Yes,2023-01-09,Press Conference Room,Yes,08:00,Approved,No
+ACC0349,JOUR0349,Journalist_349,Print,MediaOrg_50,Germany,Tamil,2023-01-08,Yes,2023-01-10,Cultural Pavilion,Yes,09:15,Rejected,No
+ACC0350,JOUR0350,Journalist_350,International,MediaOrg_11,Singapore,Spanish,2023-01-05,Yes,2023-01-08,Press Conference Room,Yes,09:30,Approved,No
+ACC0351,JOUR0351,Journalist_351,International,MediaOrg_34,South Africa,English,2023-01-05,Yes,2023-01-09,Media Centre,Yes,11:15,Rejected,No
+ACC0352,JOUR0352,Journalist_352,Digital,MediaOrg_25,Germany,Hindi,2023-01-08,Yes,2023-01-10,Cultural Pavilion,Yes,11:30,Approved,No
+ACC0353,JOUR0353,Journalist_353,Radio,MediaOrg_3,Australia,Telugu,2023-01-07,Yes,2023-01-08,Media Centre,No,11:00,Approved,No
+ACC0354,JOUR0354,Journalist_354,Photographer,MediaOrg_50,Canada,Spanish,2023-01-05,Yes,2023-01-10,Press Conference Room,No,07:15,Approved,No
+ACC0355,JOUR0355,Journalist_355,Print,MediaOrg_6,USA,English,2023-01-06,Yes,2023-01-10,Main Plenary Hall,No,08:30,Approved,No
+ACC0356,JOUR0356,Journalist_356,Radio,MediaOrg_28,UAE,English,2023-01-08,Yes,2023-01-10,Main Plenary Hall,No,11:00,Approved,No
+ACC0357,JOUR0357,Journalist_357,Photographer,MediaOrg_55,USA,French,2023-01-05,Yes,2023-01-10,Cultural Pavilion,No,09:45,Approved,No
+ACC0358,JOUR0358,Journalist_358,Print,MediaOrg_31,UK,Telugu,2023-01-06,Yes,2023-01-10,Cultural Pavilion,No,08:30,Approved,No
+ACC0359,JOUR0359,Journalist_359,Photographer,MediaOrg_42,UAE,English,2023-01-06,Yes,2023-01-08,VIP Lounge,No,11:00,Approved,No
+ACC0360,JOUR0360,Journalist_360,Photographer,MediaOrg_23,Canada,Spanish,2023-01-06,Yes,2023-01-08,VIP Lounge,No,08:00,Approved,No
+ACC0361,JOUR0361,Journalist_361,Print,MediaOrg_55,Netherlands,Marathi,2023-01-05,Yes,2023-01-08,Cultural Pavilion,Yes,11:45,Rejected,No
+ACC0362,JOUR0362,Journalist_362,Photographer,MediaOrg_42,Canada,Hindi,2023-01-07,Yes,2023-01-08,Cultural Pavilion,No,09:30,Approved,Yes
+ACC0363,JOUR0363,Journalist_363,International,MediaOrg_24,Netherlands,French,2023-01-08,Yes,2023-01-09,Media Centre,Yes,08:45,Approved,No
+ACC0364,JOUR0364,Journalist_364,Photographer,MediaOrg_47,UAE,Marathi,2023-01-08,Yes,2023-01-09,Exhibition Hall,No,08:00,Approved,No
+ACC0365,JOUR0365,Journalist_365,TV,MediaOrg_58,Mauritius,Telugu,2023-01-07,Yes,2023-01-10,Main Plenary Hall,Yes,07:00,Approved,No
+ACC0366,JOUR0366,Journalist_366,International,MediaOrg_38,Singapore,Telugu,2023-01-05,Yes,2023-01-10,VIP Lounge,Yes,10:15,Approved,No
+ACC0367,JOUR0367,Journalist_367,International,MediaOrg_47,New Zealand,Tamil,2023-01-06,Yes,2023-01-10,Main Plenary Hall,Yes,10:30,Approved,No
+ACC0368,JOUR0368,Journalist_368,International,MediaOrg_44,UK,Gujarati,2023-01-08,Yes,2023-01-10,VIP Lounge,Yes,08:45,Pending,Yes
+ACC0369,JOUR0369,Journalist_369,Radio,MediaOrg_15,USA,Tamil,2023-01-07,Yes,2023-01-10,Media Centre,No,09:45,Approved,No
+ACC0370,JOUR0370,Journalist_370,Print,MediaOrg_3,Trinidad,French,2023-01-05,Yes,2023-01-10,Press Conference Room,No,09:15,Approved,No
+ACC0371,JOUR0371,Journalist_371,International,MediaOrg_42,Germany,Hindi,2023-01-07,Yes,2023-01-08,VIP Lounge,Yes,10:30,Approved,No
+ACC0372,JOUR0372,Journalist_372,Radio,MediaOrg_57,Fiji,English,2023-01-06,Yes,2023-01-08,Main Plenary Hall,No,09:15,Approved,Yes
+ACC0373,JOUR0373,Journalist_373,International,MediaOrg_46,New Zealand,Hindi,2023-01-06,Yes,2023-01-09,Press Conference Room,Yes,07:45,Approved,No
+ACC0374,JOUR0374,Journalist_374,International,MediaOrg_11,Trinidad,Spanish,2023-01-05,Yes,2023-01-08,VIP Lounge,Yes,11:15,Approved,No
+ACC0375,JOUR0375,Journalist_375,International,MediaOrg_10,India,Gujarati,2023-01-07,No,2023-01-10,Exhibition Hall,Yes,11:00,Pending,No
+ACC0376,JOUR0376,Journalist_376,Digital,MediaOrg_6,Canada,Marathi,2023-01-08,Yes,2023-01-08,Media Centre,No,11:15,Approved,No
+ACC0377,JOUR0377,Journalist_377,TV,MediaOrg_40,Trinidad,Tamil,2023-01-06,Yes,2023-01-09,Exhibition Hall,Yes,11:00,Approved,No
+ACC0378,JOUR0378,Journalist_378,Print,MediaOrg_2,Canada,Spanish,2023-01-06,Yes,2023-01-08,Exhibition Hall,No,11:00,Pending,No
+ACC0379,JOUR0379,Journalist_379,Print,MediaOrg_6,South Africa,Gujarati,2023-01-05,Yes,2023-01-10,Press Conference Room,No,10:30,Pending,No
+ACC0380,JOUR0380,Journalist_380,Radio,MediaOrg_15,Netherlands,Marathi,2023-01-08,Yes,2023-01-10,Press Conference Room,No,10:15,Approved,No
+ACC0381,JOUR0381,Journalist_381,Print,MediaOrg_19,Fiji,Spanish,2023-01-07,Yes,2023-01-10,Press Conference Room,No,11:00,Approved,No
+ACC0382,JOUR0382,Journalist_382,TV,MediaOrg_45,Netherlands,French,2023-01-08,Yes,2023-01-08,Exhibition Hall,Yes,11:30,Approved,No
+ACC0383,JOUR0383,Journalist_383,International,MediaOrg_24,Fiji,Tamil,2023-01-08,Yes,2023-01-09,VIP Lounge,Yes,11:45,Approved,No
+ACC0384,JOUR0384,Journalist_384,Radio,MediaOrg_17,Australia,French,2023-01-08,Yes,2023-01-10,Main Plenary Hall,No,10:15,Approved,No
+ACC0385,JOUR0385,Journalist_385,Digital,MediaOrg_52,Mauritius,English,2023-01-06,Yes,2023-01-10,Main Plenary Hall,No,08:45,Pending,No
+ACC0386,JOUR0386,Journalist_386,Print,MediaOrg_17,Canada,French,2023-01-05,Yes,2023-01-10,Exhibition Hall,No,10:30,Approved,No
+ACC0387,JOUR0387,Journalist_387,TV,MediaOrg_41,South Africa,Marathi,2023-01-05,Yes,2023-01-10,VIP Lounge,Yes,09:15,Approved,No
+ACC0388,JOUR0388,Journalist_388,International,MediaOrg_45,Canada,Gujarati,2023-01-05,Yes,2023-01-10,Main Plenary Hall,Yes,08:00,Rejected,No
+ACC0389,JOUR0389,Journalist_389,Digital,MediaOrg_43,Singapore,Spanish,2023-01-06,Yes,2023-01-10,Press Conference Room,Yes,07:30,Approved,No
+ACC0390,JOUR0390,Journalist_390,International,MediaOrg_23,UAE,Tamil,2023-01-06,Yes,2023-01-08,Exhibition Hall,Yes,10:00,Approved,No
+ACC0391,JOUR0391,Journalist_391,Print,MediaOrg_36,USA,Tamil,2023-01-07,No,2023-01-10,Cultural Pavilion,No,11:30,Approved,No
+ACC0392,JOUR0392,Journalist_392,International,MediaOrg_31,Netherlands,Telugu,2023-01-07,No,2023-01-09,Press Conference Room,Yes,10:00,Approved,No
+ACC0393,JOUR0393,Journalist_393,Radio,MediaOrg_41,Netherlands,Telugu,2023-01-06,Yes,2023-01-09,Cultural Pavilion,No,07:30,Approved,Yes
+ACC0394,JOUR0394,Journalist_394,Photographer,MediaOrg_48,New Zealand,French,2023-01-05,Yes,2023-01-08,Exhibition Hall,No,08:30,Approved,No
+ACC0395,JOUR0395,Journalist_395,TV,MediaOrg_32,Guyana,Telugu,2023-01-06,Yes,2023-01-09,Media Centre,Yes,08:15,Approved,No
+ACC0396,JOUR0396,Journalist_396,Digital,MediaOrg_10,Netherlands,Hindi,2023-01-05,No,2023-01-10,Press Conference Room,No,07:00,Approved,No
+ACC0397,JOUR0397,Journalist_397,Digital,MediaOrg_32,Germany,Tamil,2023-01-08,Yes,2023-01-10,Cultural Pavilion,No,11:15,Approved,No
+ACC0398,JOUR0398,Journalist_398,Radio,MediaOrg_35,India,French,2023-01-08,Yes,2023-01-08,Exhibition Hall,No,11:45,Approved,Yes
+ACC0399,JOUR0399,Journalist_399,Photographer,MediaOrg_14,Singapore,Hindi,2023-01-07,Yes,2023-01-09,Media Centre,No,08:30,Approved,No
+ACC0400,JOUR0400,Journalist_400,Digital,MediaOrg_12,South Africa,Spanish,2023-01-06,Yes,2023-01-09,Cultural Pavilion,No,09:45,Approved,Yes

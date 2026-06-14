@@ -1,0 +1,43 @@
+session_id,event_day,session_type,slot,venue_zone,start_time,duration_mins,capacity,registered_delegates,attended_delegates,attendance_rate_pct,media_personnel_present,live_broadcast,estimated_tv_reach,vip_dignitaries,countries_represented,official_language_sessions
+SES001,2023-01-08,Inaugural Ceremony,1,Exhibition Hall,11:00,105,1750,1287,1032,59.0,59,No,14285611,19,48,4
+SES002,2023-01-08,Inaugural Ceremony,2,Main Plenary Hall,11:00,81,2845,2540,2178,76.6,89,No,3365137,16,49,2
+SES003,2023-01-08,Plenary Session,1,VIP Lounge,16:00,139,2100,1794,1492,71.0,20,No,0,3,34,4
+SES004,2023-01-08,Plenary Session,2,VIP Lounge,15:00,47,1890,1439,1195,63.2,23,No,0,20,47,4
+SES005,2023-01-08,Cultural Program,1,Exhibition Hall,16:00,115,324,315,265,81.8,25,Yes,0,16,37,2
+SES006,2023-01-08,Cultural Program,2,Main Plenary Hall,11:00,83,1578,1534,1341,85.0,73,Yes,6192359,14,50,2
+SES007,2023-01-08,Press Conference,1,Main Plenary Hall,16:00,141,1290,1212,1089,84.4,58,No,3526182,18,50,3
+SES008,2023-01-08,Press Conference,2,Cultural Pavilion,15:00,62,680,622,551,81.0,82,Yes,3170591,7,11,1
+SES009,2023-01-08,Award Ceremony,1,Press Conference Room,12:00,71,2195,2154,1864,84.9,37,No,0,12,31,1
+SES010,2023-01-08,Award Ceremony,2,Exhibition Hall,14:00,52,403,359,287,71.2,17,No,0,14,29,2
+SES011,2023-01-08,Exhibition,1,Exhibition Hall,16:00,118,2760,2430,1982,71.8,40,Yes,7782368,16,17,1
+SES012,2023-01-08,Exhibition,2,Media Centre,09:00,80,2534,1841,1754,69.2,20,No,0,13,41,1
+SES013,2023-01-08,Side Event,1,VIP Lounge,16:00,93,1545,1192,1086,70.3,90,No,8447918,16,27,3
+SES014,2023-01-08,Side Event,2,Exhibition Hall,15:00,141,2683,2607,2433,90.7,16,No,2633934,16,24,1
+SES015,2023-01-09,Inaugural Ceremony,1,Cultural Pavilion,09:00,102,633,544,429,67.8,77,No,0,8,29,3
+SES016,2023-01-09,Inaugural Ceremony,2,Main Plenary Hall,17:00,106,428,412,333,77.8,44,No,8889396,9,30,1
+SES017,2023-01-09,Plenary Session,1,Cultural Pavilion,09:00,53,2386,2183,1746,73.2,68,Yes,0,10,8,2
+SES018,2023-01-09,Plenary Session,2,Media Centre,16:00,63,986,860,784,79.5,15,No,10734130,1,27,1
+SES019,2023-01-09,Cultural Program,1,VIP Lounge,16:00,78,1854,1645,1464,79.0,18,Yes,0,1,36,2
+SES020,2023-01-09,Cultural Program,2,Main Plenary Hall,09:00,51,2813,2301,1992,70.8,37,No,9462151,19,29,1
+SES021,2023-01-09,Press Conference,1,Press Conference Room,11:00,155,2413,2063,1752,72.6,56,No,2439164,14,12,3
+SES022,2023-01-09,Press Conference,2,Media Centre,12:00,68,1590,1231,1056,66.4,15,No,0,17,41,1
+SES023,2023-01-09,Award Ceremony,1,Main Plenary Hall,09:00,77,211,203,167,79.1,15,Yes,0,10,27,2
+SES024,2023-01-09,Award Ceremony,2,Press Conference Room,10:00,64,1347,1018,866,64.3,23,Yes,8803534,11,19,4
+SES025,2023-01-09,Exhibition,1,Press Conference Room,12:00,179,1389,1366,1257,90.5,45,No,0,17,37,1
+SES026,2023-01-09,Exhibition,2,Exhibition Hall,13:00,65,371,303,258,69.5,87,Yes,0,16,19,3
+SES027,2023-01-09,Side Event,1,Main Plenary Hall,12:00,157,2414,1880,1592,65.9,26,No,2416606,0,36,1
+SES028,2023-01-09,Side Event,2,Main Plenary Hall,13:00,143,1257,1002,850,67.6,18,Yes,6953578,14,7,2
+SES029,2023-01-10,Inaugural Ceremony,1,Main Plenary Hall,13:00,53,992,819,736,74.2,76,Yes,0,0,43,3
+SES030,2023-01-10,Inaugural Ceremony,2,Cultural Pavilion,15:00,154,1225,1159,1027,83.8,11,No,13123189,1,11,4
+SES031,2023-01-10,Plenary Session,1,Exhibition Hall,15:00,177,2926,2342,2244,76.7,76,Yes,8340537,7,13,1
+SES032,2023-01-10,Plenary Session,2,Media Centre,17:00,120,1299,1226,1166,89.8,18,Yes,0,19,22,3
+SES033,2023-01-10,Cultural Program,1,Main Plenary Hall,10:00,123,1250,1130,1040,83.2,85,No,0,8,16,4
+SES034,2023-01-10,Cultural Program,2,Cultural Pavilion,16:00,100,2045,1482,1158,56.6,12,Yes,1834575,8,44,3
+SES035,2023-01-10,Press Conference,1,Cultural Pavilion,16:00,77,412,347,286,69.4,43,Yes,0,19,46,1
+SES036,2023-01-10,Press Conference,2,Exhibition Hall,14:00,55,1103,829,652,59.1,72,No,0,8,21,1
+SES037,2023-01-10,Award Ceremony,1,Press Conference Room,09:00,105,2928,2800,2612,89.2,77,Yes,0,14,12,1
+SES038,2023-01-10,Award Ceremony,2,Main Plenary Hall,15:00,117,1120,870,767,68.5,61,Yes,0,11,26,4
+SES039,2023-01-10,Exhibition,1,VIP Lounge,09:00,86,2820,2326,2208,78.3,45,Yes,0,4,42,1
+SES040,2023-01-10,Exhibition,2,Press Conference Room,17:00,133,585,520,481,82.2,73,No,0,18,7,2
+SES041,2023-01-10,Side Event,1,Media Centre,17:00,152,1710,1596,1431,83.7,17,Yes,0,16,8,4
+SES042,2023-01-10,Side Event,2,Media Centre,13:00,107,2850,2470,2122,74.5,42,Yes,6572764,7,34,3
